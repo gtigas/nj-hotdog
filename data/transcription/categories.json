@@ -1,0 +1,89 @@
+{
+  "categories": [
+    {
+      "id": "ripper",
+      "column": 1,
+      "title": "Ripper",
+      "description": "Deep-fried hot dogs, cooked until their casing “rips”. Originated in Passaic & Bergen counties."
+    },
+    {
+      "id": "dirty-water",
+      "column": 2,
+      "title": "“Dirty Water” Dog",
+      "description": "Boiled hot dogs served from pushcarts and concession stands, often with classic toppings like relish and sauerkraut."
+    },
+    {
+      "id": "chili-dog",
+      "column": 3,
+      "title": "Chili Dog",
+      "description": "Many hot dogs have chili alone as the focal topping. In New Jersey, chili rarely has beans and may or may not include meat."
+    },
+    {
+      "id": "plainfield-texas-weiner",
+      "column": 4,
+      "title": "Plainfield Texas Weiner",
+      "description": "Plainfield-style Texas Weiners, originating near Plainfield, NJ, include mustard, onions, and a dry, spicy, and dark chili."
+    },
+    {
+      "id": "passaic-texas-weiner",
+      "column": 5,
+      "title": "Passaic Texas Weiner",
+      "description": "Passaic-style Texas Weiners, originating in Paterson, NJ, include mustard, onions, and a sweet chili sauce."
+    },
+    {
+      "id": "hot-onions",
+      "column": 6,
+      "title": "Hot Onions",
+      "description": "Hot onions are a very spicy, rich topping often served by trucks and carts in and around Branch Brook Park in Newark, NJ. The hot onions are a twist on the classic onion sauce found nationwide."
+    },
+    {
+      "id": "easton",
+      "column": 7,
+      "title": "Easton",
+      "description": "Easton-style dogs include a pickle slice as a topping along with mustard and onions. They can be found on both sides of the Delaware River near Warren County, NJ."
+    },
+    {
+      "id": "italian",
+      "column": 8,
+      "title": "Italian",
+      "description": "Italian Hot Dogs include potatoes, peppers, and onions, and are usually served either in a “pizza roll” in North Jersey, or on a hoagie roll in the Trenton substyle."
+    },
+    {
+      "id": "jumbo",
+      "column": 9,
+      "title": "Jumbo",
+      "description": "Jumbo franks - usually griddled - are served down the Shore at beachside huts and local restaurants."
+    },
+    {
+      "id": "wurst",
+      "column": 10,
+      "title": "Wurst",
+      "description": "New Jersey’s diverse ethnic population ensures that German and Central European style wursts & sausages can be enjoyed all over the state."
+    },
+    {
+      "id": "farm",
+      "column": 11,
+      "title": "Farm",
+      "description": "The Garden State boasts a variety of farms and agricultural businesses which produce high-quality franks made with local beef, pork, and other farm products."
+    },
+    {
+      "id": "deli",
+      "column": 12,
+      "title": "Deli",
+      "description": "Hot dogs served at delicatessens in the state are often Kosher or Kosher-style, and use all-beef franks from quality producers."
+    },
+    {
+      "id": "distributed",
+      "column": 13,
+      "title": "Distributed",
+      "description": "“Distributed” hot dogs are defined by how they are sold - en masse at chain restaurants, ballgames, and retail stores."
+    },
+    {
+      "id": "haute",
+      "column": 14,
+      "title": "Haute",
+      "description": "Haute dogs are defined by unique meats, crazy toppings, alternative cooking styles, and unusual formats."
+    }
+  ],
+  "legend": "Symbol [arrow] → Xx / Restaurant Name | Number of fran[ks per lb] (b: beef/ p: pork/ v: veal/ bi: bison/ d: duck)"
+}

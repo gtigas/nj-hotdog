@@ -1,0 +1,222 @@
+[
+  {
+    "id": "r3c11",
+    "symbol": "Ff",
+    "name": "Fossil Farms",
+    "year": 1997,
+    "franks_ratio": "8:1",
+    "ingredients": ["bi"],
+    "topping_codes": ["eg", "pe", "spk"],
+    "brand": "Fossil Farms",
+    "uncertain": null
+  },
+  {
+    "id": "r3c12",
+    "symbol": "Ee",
+    "name": "Eppes Essen",
+    "year": 1956,
+    "franks_ratio": "7:1",
+    "ingredients": ["b"],
+    "topping_codes": ["sk"],
+    "brand": "Nathan's",
+    "uncertain": null
+  },
+  {
+    "id": "r3c13",
+    "symbol": "St",
+    "name": "Stewart's",
+    "year": 1932,
+    "franks_ratio": "8:1",
+    "ingredients": ["b", "p"],
+    "topping_codes": ["m"],
+    "brand": "Thumann's",
+    "uncertain": null
+  },
+  {
+    "id": "r3c14",
+    "symbol": "An",
+    "name": "Andy's Roadside Dive",
+    "year": 2011,
+    "franks_ratio": "10:1",
+    "ingredients": ["b"],
+    "topping_codes": ["bbq", "bc", "pp", "z"],
+    "brand": "Sabrett",
+    "uncertain": null
+  },
+  {
+    "id": "r4c01",
+    "symbol": "Jm",
+    "name": "J&M Grill",
+    "year": 2007,
+    "franks_ratio": "8:1",
+    "ingredients": ["b", "p"],
+    "topping_codes": ["go", "m"],
+    "brand": "Thumann's",
+    "uncertain": null
+  },
+  {
+    "id": "r4c02",
+    "symbol": "Mu",
+    "name": "Munce's",
+    "year": 1963,
+    "franks_ratio": "10:1",
+    "ingredients": ["b"],
+    "topping_codes": ["r"],
+    "brand": "Sabrett",
+    "uncertain": null
+  },
+  {
+    "id": "r4c03",
+    "symbol": "Bd",
+    "name": "Boulevard Drinks",
+    "year": 1937,
+    "franks_ratio": "12:1",
+    "ingredients": ["b"],
+    "topping_codes": ["c"],
+    "brand": "Sabrett",
+    "uncertain": null
+  },
+  {
+    "id": "r4c04",
+    "symbol": "Ma",
+    "name": "Manny's Texas Weiners",
+    "year": 1979,
+    "franks_ratio": "6:1",
+    "ingredients": ["b", "p"],
+    "topping_codes": ["c", "m", "o"],
+    "brand": "Grote & Weigel",
+    "uncertain": null
+  },
+  {
+    "id": "r4c05",
+    "symbol": "Nc",
+    "name": "New Corral",
+    "year": 1952,
+    "franks_ratio": "8:1",
+    "ingredients": ["b", "p"],
+    "topping_codes": ["c", "m", "o"],
+    "brand": "Thumann's",
+    "uncertain": null
+  },
+  {
+    "id": "r4c06",
+    "symbol": "Jj",
+    "name": "JJ's",
+    "year": 1971,
+    "franks_ratio": "12:1",
+    "ingredients": ["b"],
+    "topping_codes": ["ho"],
+    "brand": "Sabrett",
+    "uncertain": "Topping code reads 'ho' in italic but 'ho' is not in the valid vocabulary. Could be a misread of 'hm' — the second letter resembles 'o' in the font used."
+  },
+  {
+    "id": "r4c07",
+    "symbol": "Hs",
+    "name": "Hot Dog Johnny's",
+    "year": 1944,
+    "franks_ratio": "10:1",
+    "ingredients": ["b", "p"],
+    "topping_codes": ["m", "o", "p"],
+    "brand": "Schmalz's",
+    "uncertain": null
+  },
+  {
+    "id": "r4c08",
+    "symbol": "De",
+    "name": "Dickie Dee's",
+    "year": 1958,
+    "franks_ratio": "8:1",
+    "ingredients": ["b"],
+    "topping_codes": ["k", "o", "pe", "po"],
+    "brand": "Best's",
+    "uncertain": null
+  },
+  {
+    "id": "r4c09",
+    "symbol": "Wi",
+    "name": "Windmill",
+    "year": 1963,
+    "franks_ratio": "4:1",
+    "ingredients": ["b", "p"],
+    "topping_codes": ["k", "m"],
+    "brand": "Sabrett",
+    "uncertain": null
+  },
+  {
+    "id": "r4c10",
+    "symbol": "Fo",
+    "name": "Forked River German Butcher",
+    "year": 1969,
+    "franks_ratio": "3:1",
+    "ingredients": ["v", "p"],
+    "topping_codes": ["sm"],
+    "brand": "Forked River German Butcher",
+    "uncertain": null
+  },
+  {
+    "id": "r4c11",
+    "symbol": "Bp",
+    "name": "Beach Plum Farm",
+    "year": 2007,
+    "franks_ratio": "8:1",
+    "ingredients": ["p"],
+    "topping_codes": ["r"],
+    "brand": "Beach Plum Farm",
+    "uncertain": null
+  },
+  {
+    "id": "r4c12",
+    "symbol": "Hb",
+    "name": "Hobby's",
+    "year": 1962,
+    "franks_ratio": "4:1",
+    "ingredients": ["b"],
+    "topping_codes": ["m"],
+    "brand": "Marathon",
+    "uncertain": null
+  },
+  {
+    "id": "r4c13",
+    "symbol": "Co",
+    "name": "Costco",
+    "year": 1984,
+    "franks_ratio": "4:1",
+    "ingredients": ["b"],
+    "topping_codes": ["pl"],
+    "brand": "Kirkland",
+    "uncertain": null
+  },
+  {
+    "id": "r4c14",
+    "symbol": "Dd",
+    "name": "Destination Dogs",
+    "year": 2012,
+    "franks_ratio": "6:1",
+    "ingredients": ["d"],
+    "topping_codes": ["dc", "dm", "o", "p", "sn"],
+    "brand": "Destination Dogs",
+    "uncertain": null
+  },
+  {
+    "id": "r5c01",
+    "symbol": "Ro",
+    "name": "Rocco's",
+    "year": 2015,
+    "franks_ratio": "8:1",
+    "ingredients": ["b", "p"],
+    "topping_codes": ["pl"],
+    "brand": "Thumann's",
+    "uncertain": null
+  },
+  {
+    "id": "r5c02",
+    "symbol": "So",
+    "name": "Sophie's",
+    "year": 1984,
+    "franks_ratio": "10:1",
+    "ingredients": ["b"],
+    "topping_codes": ["r", "sk"],
+    "brand": "Sabrett",
+    "uncertain": null
+  }
+]

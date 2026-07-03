@@ -1,0 +1,162 @@
+[
+  {
+    "id": "r6c13",
+    "name": "Somerset Patriots",
+    "town": "Bridgewater",
+    "address": "1 Patriots Park, Bridgewater, NJ 08807",
+    "status": "open",
+    "website": "https://www.mlb.com/milb/somerset",
+    "blurb": "The Somerset Patriots have played at TD Bank Ballpark since the stadium opened on June 7, 1999, and currently serve as the Double-A affiliate of the New York Yankees in the Eastern League. The 6,100-seat ballpark offers classic ballpark concessions including hot dogs at notably affordable prices — around $5, well below major league rates. TD Bank Ballpark has been recognized as one of the top minor league facilities in the country and draws families from across central New Jersey.",
+    "confidence": "high"
+  },
+  {
+    "id": "r6c14",
+    "name": "Coniglio's",
+    "town": "Morristown",
+    "address": "11 South St, Morristown, NJ 07960",
+    "status": "open",
+    "website": "https://www.coniglios.com/",
+    "blurb": null,
+    "confidence": "low"
+  },
+  {
+    "id": "r7c01",
+    "name": "Meat Us Here",
+    "town": "Elmwood Park",
+    "address": "242 Market Street, Elmwood Park, NJ 07407",
+    "status": "open",
+    "website": null,
+    "blurb": "Meat Us Here opened in November 2025 in Elmwood Park, Bergen County, offering a retro 1950s roadside diner experience with a modern edge. The menu centers on smash burgers, hot dogs, thick-cut crinkle fries, and classic American handhelds made with house-made sauces and seasonal specials. The restaurant sits in the heart of North Jersey's deep-fry hot dog country, close to the Passaic County tradition of ripper-style franks.",
+    "confidence": "medium"
+  },
+  {
+    "id": "r7c02",
+    "name": "Randy's",
+    "town": "Hillside",
+    "address": "303 Long Ave, Hillside, NJ 07205",
+    "status": "open",
+    "website": "https://randythehotdogguy.com/",
+    "blurb": "Randy the Hot Dog Guy, operated by Randy Pollack since 2004, runs a hot dog cart beneath the Route 22 overpass in Hillside, NJ, working a spot locals have come to associate so closely with him that the bridge is informally named in his honor. Pollack serves a wide variety of hot dog brands, knockwurst, and sausages in classic dirty-water pushcart style, boiling dogs in seasoned water. His outsized personality and unorthodox setup — open Monday through Saturday on a parking lot corner — have made him a well-documented New Jersey character.",
+    "confidence": "high"
+  },
+  {
+    "id": "r7c03",
+    "name": "Johnny Prince's Bayway Diner",
+    "town": "Linden",
+    "address": "2019 S. Wood Ave, Linden, NJ 07036",
+    "status": "open",
+    "website": "https://johnnyprincesbaywaydiner.com/",
+    "blurb": "Johnny Prince's Bayway Diner in Linden was reopened by owner Johnny Principato in September 2014, reviving a location that previously earned national attention on Food Network's Diners, Drive-Ins and Dives. The diner is known for its chili dogs: all-beef franks are deep-fried, then seared on a flat-top grill, and finished with a homemade chili that Principato and his father refined during their years running a luncheonette on Elizabeth Avenue. A loyal clientele of truck drivers, firefighters, and utility workers has made it a workingman's institution in Union County.",
+    "confidence": "high"
+  },
+  {
+    "id": "r7c04",
+    "name": "Pop's Place",
+    "town": "Rockaway",
+    "address": "449 US-46, Rockaway, NJ 07866",
+    "status": "closed",
+    "website": null,
+    "blurb": null,
+    "confidence": "low"
+  },
+  {
+    "id": "r7c05",
+    "name": "Jersey Johnny's",
+    "town": "Woodland Park",
+    "address": "1750 Route 46 West, Woodland Park, NJ 07424",
+    "status": "open",
+    "website": "https://www.jerseyjohnnys.com/",
+    "blurb": "Jersey Johnny's Grill was founded around 2008 by John DiGangi, who grew up in Paterson — widely called the Texas Weiner capital of the world. Operating from Passaic County locations in Woodland Park, Pequannock, and Denville, the restaurant serves the signature North Jersey deep-fried Texas weiner: a Thumann's frank fried until it curls over the warm bun, topped with mustard, diced white onion, and house-made Greek chili. DiGangi brought 34 years of food-industry experience to the venture before opening his own stand.",
+    "confidence": "high"
+  },
+  {
+    "id": "r7c06",
+    "name": "Big Ds",
+    "town": "Dover",
+    "address": "Dover Train Station area, Dover, NJ 07801",
+    "status": "open",
+    "website": null,
+    "blurb": "Big D's Hot Dogs is a food truck operated by Dominick Angelone, parked near Dover Train Station in Morris County and recognized as one of the first licensed food trucks in Dover. Angelone simmers dogs in a broth of secret spices and loads them with homemade hot onions and chili, with Gulden's spicy mustard on the side. On Fridays the menu expands to include a fennel sausage sandwich — a rare offering in the area.",
+    "confidence": "medium"
+  },
+  {
+    "id": "r7c07",
+    "name": "Charlie's Hot Dogs",
+    "town": "Alpha",
+    "address": "1122 East Blvd, Alpha, NJ 08865",
+    "status": "open",
+    "website": null,
+    "blurb": "Charlie's Hot Dogs in Alpha, Warren County, occupies a building that has housed the business since 1925; the current revival reopened on July 18, 2025, after roughly a decade of closure. The signature item is the Mealie — a pan-fried Kunzler hot dog on a steamed bun crowned with Grandma Fencz's secret Hungarian onion sauce, fresh onions, and precisely cut strips of hot pepper. The preparation is a distinctive local riff on the Easton style, drawing on the cross-river culinary tradition shared with Easton, PA, just across the Delaware.",
+    "confidence": "high"
+  },
+  {
+    "id": "r7c08",
+    "name": "Jeppy's II",
+    "town": "Hamilton Township",
+    "address": "448 Whitehorse Mercerville Rd, Hamilton Township, NJ 08610",
+    "status": "open",
+    "website": "https://jeppyspizza.com/",
+    "blurb": "Jeppy's Gourmet Pizza Shop #2 is the second location of the Trenton-area institution originally founded by Giuseppe \"Jeppy\" in 1994 in the Chambersburg neighborhood; the Hamilton Township outpost opened around 2009–2010 under Jeppy and his son Antonino. The restaurant is known for its Italian hot dogs — two all-beef dogs on a 12-inch pizza-bread roll loaded with fried potatoes, peppers, and mustard — prepared in the classic Newark-influenced Trenton tradition. The family-run spot has built a devoted following across Mercer County.",
+    "confidence": "high"
+  },
+  {
+    "id": "r7c09",
+    "name": "Double A's Eats",
+    "town": "Hasbrouck Heights",
+    "address": "206 Boulevard, Hasbrouck Heights, NJ 07604",
+    "status": "open",
+    "website": "https://doubleaeats.com/",
+    "blurb": "Double A's Eats is a family-run counter-service restaurant on the main boulevard of Hasbrouck Heights, Bergen County, specializing in gourmet hot dogs, smash burgers, cheesesteaks, and oversized sandwich pies. Their flagship hot dog is the Double A's Ripper, a jumbo quarter-pound frank available deep-fried, alongside The Angelo — a classic Italian-style dog on pizza bread with peppers, onions, and potatoes. The restaurant also offers a traditional pushcart-style all-beef dog and a range of custom toppings.",
+    "confidence": "medium"
+  },
+  {
+    "id": "r7c10",
+    "name": "Rose City Wurst",
+    "town": "Madison",
+    "address": "Main Street, Madison, NJ 07940",
+    "status": "open",
+    "website": null,
+    "blurb": "Rose City Wurst Co. is an elevated sausage cart operated by Vincent LaGuardia and his wife Lauren, launched in October 2023 along Main Street in Madison, Morris County. The cart grills German bratwurst and Polish kielbasa and pairs them with Bavarian accompaniments such as pretzel sticks and beer mustard, operating year-round including through winter months. The name honors Madison's historical identity as the \"Rose City,\" a nickname earned during the town's prominent early 20th-century greenhouse and floral industry.",
+    "confidence": "high"
+  },
+  {
+    "id": "r7c11",
+    "name": "Haddon Hall Hot Dawgs",
+    "town": "Haddonfield",
+    "address": "17 Mechanic St, Haddonfield, NJ 08033",
+    "status": "open",
+    "website": "https://hotdawgsnj.com/",
+    "blurb": "Hot Dawgs at Haddon Hall held its ribbon-cutting in March 2024 inside a curated indoor market space on Mechanic Street in Haddonfield, just behind Kings Road Brewing Company. The shop uses 100% organic, grass-fed beef hot dogs (with a vegan option) and sources every topping locally: cheese from Cheese Etc. in Haddon Township, hot sauce from Is It Spicy? Sauce Co. in Gloucester City, and sauerkraut brewed with Kings Road lager. The broader Haddon Hall market emphasizes local and women-owned small businesses as part of its mission.",
+    "confidence": "high"
+  },
+  {
+    "id": "r7c12",
+    "name": "Harold's New York Deli",
+    "town": "Edison",
+    "address": "1173 King Georges Post Rd, Edison, NJ 08837",
+    "status": "open",
+    "website": "https://www.haroldsfamousdeli.com/",
+    "blurb": "Harold's New York Deli in Edison was founded by Harold Jaffe, a veteran of New York's Carnegie Deli and the Claremont Diner, who brought signature Carnegie menu items to New Jersey — including oversized foot-long hot dogs paired with a giant knish. The restaurant is known for its enormous portions (most items are designed to serve two or more), an extensive pickle bar with over 20 varieties, and an all-day menu from early breakfast through dinner. Harold Jaffe passed away in early 2025 at age 82, but the Edison institution continues to operate.",
+    "confidence": "high"
+  },
+  {
+    "id": "r7c13",
+    "name": "Shake Shack",
+    "town": "multiple NJ locations",
+    "address": null,
+    "status": "open",
+    "website": "https://shakeshack.com/",
+    "blurb": "Shake Shack began in 2001 as a hot dog cart in New York City's Madison Square Park before expanding into a publicly traded global chain primarily known for burgers and frozen custard, though hot dogs remain a menu staple. New Jersey is among the brand's earliest and densest markets outside Manhattan, with locations spanning Jersey City, Hoboken, Cranbury (Molly Pitcher Travel Plaza), Wall (Monmouth Travel Plaza), and numerous suburban shopping centers. The chain's origins as a hot dog stand make it a touchstone in discussions of American hot dog culture.",
+    "confidence": "high"
+  },
+  {
+    "id": "r7c14",
+    "name": "Surf City Dog House",
+    "town": "Surf City",
+    "address": "1521 Long Beach Blvd, Surf City, NJ 08008",
+    "status": "open",
+    "website": "https://surfcitydoghouse.com/",
+    "blurb": "Surf City Dog House opened in 2024 on Long Beach Island, founded by Phillip and Stacey Ghigliotty after discovering a similar hot-dog-in-a-spike concept while vacationing in Hawaii. The shop's signature technique presses a whole roll onto a heated metal spike that toasts the interior and forms a deep pocket, which is then filled with toppings before a quarter-pound beef-and-pork-blend frank is inserted and the whole thing served vertically in a paper bag. Signature builds include the Top Dog (mustard and onion relish) and the High Tide (pineapple relish, garlic sauce, and honey mustard), accompanied by fresh-squeezed lemonade in tropical flavors.",
+    "confidence": "high"
+  }
+]

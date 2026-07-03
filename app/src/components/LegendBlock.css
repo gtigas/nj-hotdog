@@ -1,0 +1,130 @@
+.legend-block {
+  border: 1.5px solid #aaa;
+  background: #f9f9f9;
+  padding: 5px 6px;
+  font-family: 'Futura', 'Avenir Next', 'Century Gothic', sans-serif;
+  font-size: 9px;
+  line-height: 1.3;
+  color: #222;
+  height: 100%;
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: row;
+  gap: 8px;
+}
+
+/* Left column: example tile + labels + ingredients key */
+.legend-example-col {
+  flex-shrink: 0;
+  display: flex;
+  flex-direction: column;
+  gap: 4px;
+}
+
+/* Right column: toppings key fills remaining width */
+.legend-toppings {
+  flex: 1;
+  min-width: 0;
+  display: flex;
+  flex-direction: column;
+  gap: 2px;
+  border-left: 1px solid #ccc;
+  padding-left: 8px;
+}
+
+/* Top row: mini tile + labels */
+.legend-example-row {
+  display: flex;
+  gap: 6px;
+  align-items: flex-start;
+}
+
+.legend-mini-tile {
+  border: 2px solid #555;
+  background: white;
+  padding: 3px 4px;
+  min-width: 54px;
+  flex-shrink: 0;
+}
+
+.legend-mini-symbol {
+  font-size: 14px;
+  font-weight: bold;
+  line-height: 1;
+}
+
+.legend-mini-name {
+  font-size: 7px;
+  line-height: 1.2;
+  margin-top: 1px;
+}
+
+.legend-mini-info {
+  font-size: 7px;
+  line-height: 1.35;
+  text-align: right;
+  color: #333;
+  margin-top: 4px;
+}
+
+.legend-labels {
+  display: flex;
+  flex-direction: column;
+  gap: 1px;
+  padding-top: 1px;
+}
+
+.legend-label-item {
+  display: flex;
+  gap: 3px;
+  font-size: 8px;
+  line-height: 1.3;
+}
+
+.legend-arrow {
+  color: #555;
+  flex-shrink: 0;
+}
+
+/* Ingredients key */
+.legend-ingredients-key {
+  font-size: 7.5px;
+  color: #333;
+  border-top: 1px solid #ccc;
+  padding-top: 3px;
+}
+
+/* Toppings */
+.legend-toppings-header {
+  font-size: 8px;
+}
+
+.legend-toppings-grid {
+  display: grid;
+  grid-template-columns: repeat(5, 1fr);
+  gap: 1px 5px;
+}
+
+.legend-topping-entry {
+  display: flex;
+  gap: 3px;
+  font-size: 6.5px;
+  line-height: 1.3;
+  align-items: baseline;
+  min-width: 0;
+}
+
+.legend-topping-code {
+  font-weight: bold;
+  color: #333;
+  flex-shrink: 0;
+  min-width: 13px;
+}
+
+.legend-topping-label {
+  color: #444;
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
+

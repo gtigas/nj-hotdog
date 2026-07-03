@@ -1,0 +1,222 @@
+[
+  {
+    "id": "r5c03",
+    "symbol": "Dg",
+    "name": "Dover Grill",
+    "year": 2001,
+    "franks_ratio": "12:1",
+    "ingredients": ["b"],
+    "topping_codes": ["c"],
+    "brand": "Sabrett",
+    "uncertain": null
+  },
+  {
+    "id": "r5c04",
+    "symbol": "Rt",
+    "name": "Red Tower II",
+    "year": 1984,
+    "franks_ratio": "6:1",
+    "ingredients": ["b","p"],
+    "topping_codes": ["c","m","o"],
+    "brand": "Grote & Weigel",
+    "uncertain": null
+  },
+  {
+    "id": "r5c05",
+    "symbol": "Hg",
+    "name": "Hot Grill",
+    "year": 1961,
+    "franks_ratio": "8:1",
+    "ingredients": ["b","p"],
+    "topping_codes": ["c","m","o"],
+    "brand": "Grote & Weigel",
+    "uncertain": null
+  },
+  {
+    "id": "r5c06",
+    "symbol": "Cr",
+    "name": "Chris's Red Hots",
+    "year": 1995,
+    "franks_ratio": "11:1",
+    "ingredients": ["b"],
+    "topping_codes": ["ho","m"],
+    "brand": "Sabrett",
+    "uncertain": "Topping code 'ho' is not in the provided valid codes vocabulary. Printed clearly in italic. Appears on 3 tiles total (r5c06, r6c01, r6c06); photo shows caramelized/hot onions, suggesting 'ho' = hot onions."
+  },
+  {
+    "id": "r5c07",
+    "symbol": "Hr",
+    "name": "Hot Rod's",
+    "year": 1991,
+    "franks_ratio": "8:1",
+    "ingredients": ["b","p"],
+    "topping_codes": ["m","o","p"],
+    "brand": "Berks",
+    "uncertain": null
+  },
+  {
+    "id": "r5c08",
+    "symbol": "Tm",
+    "name": "Tommy's",
+    "year": 1969,
+    "franks_ratio": "8:1",
+    "ingredients": ["b"],
+    "topping_codes": ["k","m","o","pe","po"],
+    "brand": "Best's",
+    "uncertain": null
+  },
+  {
+    "id": "r5c09",
+    "symbol": "Ed",
+    "name": "Edie's Luncheonette",
+    "year": 1973,
+    "franks_ratio": "4:1",
+    "ingredients": ["b","p"],
+    "topping_codes": ["sk"],
+    "brand": "Wenning",
+    "uncertain": null
+  },
+  {
+    "id": "r5c10",
+    "symbol": "Al",
+    "name": "Alpine Meats and Deli",
+    "year": 1980,
+    "franks_ratio": "5:1",
+    "ingredients": ["b","p"],
+    "topping_codes": ["m"],
+    "brand": "Alpine Meats and Deli",
+    "uncertain": null
+  },
+  {
+    "id": "r5c11",
+    "symbol": "Fd",
+    "name": "1785 Farm Dog",
+    "year": 2023,
+    "franks_ratio": "6:1",
+    "ingredients": ["b"],
+    "topping_codes": ["m","o"],
+    "brand": "1785 Farm Dog",
+    "uncertain": null
+  },
+  {
+    "id": "r5c12",
+    "symbol": "Dk",
+    "name": "Deli King",
+    "year": 1985,
+    "franks_ratio": "7:1",
+    "ingredients": ["b"],
+    "topping_codes": ["m"],
+    "brand": "Hebrew National",
+    "uncertain": null
+  },
+  {
+    "id": "r5c13",
+    "symbol": "Fg",
+    "name": "Five Guys",
+    "year": 1986,
+    "franks_ratio": "5.3:1",
+    "ingredients": ["b"],
+    "topping_codes": ["k"],
+    "brand": "Hebrew National",
+    "uncertain": null
+  },
+  {
+    "id": "r5c14",
+    "symbol": "Lo",
+    "name": "Lover Dogs",
+    "year": 2020,
+    "franks_ratio": "7:1",
+    "ingredients": ["b","p"],
+    "topping_codes": ["c","s"],
+    "brand": "Hofmann",
+    "uncertain": null
+  },
+  {
+    "id": "r6c01",
+    "symbol": "Or",
+    "name": "1950 Originals",
+    "year": 2023,
+    "franks_ratio": "5:1",
+    "ingredients": ["b","p"],
+    "topping_codes": ["ho"],
+    "brand": "Thumann's",
+    "uncertain": "Topping code 'ho' is not in the provided valid codes vocabulary. Printed clearly in italic. Appears on 3 tiles total (r5c06, r6c01, r6c06); photo shows caramelized/hot onions, suggesting 'ho' = hot onions."
+  },
+  {
+    "id": "r6c02",
+    "symbol": "Pk",
+    "name": "Popik's Place",
+    "year": 1998,
+    "franks_ratio": "10:1",
+    "ingredients": ["b"],
+    "topping_codes": ["m"],
+    "brand": "Sabrett",
+    "uncertain": null
+  },
+  {
+    "id": "r6c03",
+    "symbol": "Cc",
+    "name": "Curbside Cafe",
+    "year": 2008,
+    "franks_ratio": "10:1",
+    "ingredients": ["b"],
+    "topping_codes": ["c","z"],
+    "brand": "Sabrett",
+    "uncertain": null
+  },
+  {
+    "id": "r6c04",
+    "symbol": "Mi",
+    "name": "Middlesex Texas Weiner",
+    "year": 1985,
+    "franks_ratio": "6:1",
+    "ingredients": ["b","p"],
+    "topping_codes": ["c","m","o"],
+    "brand": "Grote & Weigel",
+    "uncertain": null
+  },
+  {
+    "id": "r6c05",
+    "symbol": "Go",
+    "name": "Goffle Grill",
+    "year": 1979,
+    "franks_ratio": "8:1",
+    "ingredients": ["b","p"],
+    "topping_codes": ["c","m","o"],
+    "brand": "Thumann's",
+    "uncertain": null
+  },
+  {
+    "id": "r6c06",
+    "symbol": "Dw",
+    "name": "Dewey's Dogs",
+    "year": 2000,
+    "franks_ratio": "5:1",
+    "ingredients": ["b"],
+    "topping_codes": ["ho"],
+    "brand": "Sabrett",
+    "uncertain": "Topping code 'ho' is not in the provided valid codes vocabulary. Printed clearly in italic. Appears on 3 tiles total (r5c06, r6c01, r6c06); photo shows caramelized/hot onions, suggesting 'ho' = hot onions."
+  },
+  {
+    "id": "r6c07",
+    "symbol": "Ji",
+    "name": "Jimmy's Doggie Stand",
+    "year": 2009,
+    "franks_ratio": "10:1",
+    "ingredients": ["b","p"],
+    "topping_codes": ["m","o","p"],
+    "brand": "Berks",
+    "uncertain": null
+  },
+  {
+    "id": "r6c08",
+    "symbol": "Mu",
+    "name": "Maui's Dog House",
+    "year": 1999,
+    "franks_ratio": "5:1",
+    "ingredients": ["b","p","v"],
+    "topping_codes": ["o","pe","po","wd"],
+    "brand": "Hofmann",
+    "uncertain": null
+  }
+]

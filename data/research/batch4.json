@@ -1,0 +1,162 @@
+[
+  {
+    "id": "r5c11",
+    "name": "1785 Farm Dog",
+    "town": "Medford",
+    "address": "31 S Main St, Medford, NJ 08055",
+    "status": "open",
+    "website": "https://1785farmdog.com/",
+    "blurb": "1785 FarmDog is located in Medford, NJ, adjacent to The Jennings Farm, a 100-acre preserved farmland property dating to 1785. The stand serves 100% grass-fed beef hot dogs raised on the farm, boiled in onion water and served on fresh-delivered Del Buono rolls. The menu also includes housemade chili, sloppy joes, and baked potatoes all made with farm-raised beef.",
+    "confidence": "high"
+  },
+  {
+    "id": "r5c12",
+    "name": "Deli King",
+    "town": "Clark",
+    "address": "30 Clarkton Dr, Clark, NJ 07066",
+    "status": "open",
+    "website": "https://www.delikingofclark.com/",
+    "blurb": "Deli King of Clark has been Union County's premier kosher deli since 1985. The restaurant prepares its own corned beef, briskets, and turkeys daily and bakes on-site, offering classic Jewish deli fare including hot dogs, pastrami on rye, and open-faced sandwiches with gravy — all under strict Glatt Kosher standards. A perennial promotion offers a second hot dog for five cents with purchase of the first.",
+    "confidence": "high"
+  },
+  {
+    "id": "r5c13",
+    "name": "Five Guys",
+    "town": "multiple NJ locations",
+    "address": null,
+    "status": "open",
+    "website": "https://www.fiveguys.com/",
+    "blurb": "Five Guys was founded in 1986 in Arlington, Virginia by Jerry and Janie Murrell and operates dozens of locations across New Jersey. Their all-beef hot dogs are split and grilled lengthwise for a caramelized exterior and served with a choice of free toppings; options include a plain hot dog, cheese dog, bacon dog, or bacon cheese dog. The chain's approach to build-your-own hot dogs follows the same \"no frozen ingredients\" philosophy applied to their burgers.",
+    "confidence": "high"
+  },
+  {
+    "id": "r5c14",
+    "name": "Lover Dogs",
+    "town": "Woodland Park",
+    "address": "686 McBride Ave, Woodland Park, NJ 07424",
+    "status": "open",
+    "website": null,
+    "blurb": "Lover Dogs originated in Passaic, NJ and later relocated to Woodland Park in Passaic County. The establishment is noted for air-frying their hot dogs using Hofmann's franks, a technique that distinguishes them from traditional deep-fried rippers. Creative topping combinations such as the Mexican Lover (melted cheese, crispy bacon chips, mayo, ketchup, and jalapeño) are a signature, and the shop features a gelato counter with products from Gelotti of Paterson.",
+    "confidence": "medium"
+  },
+  {
+    "id": "r6c01",
+    "name": "1950 Originals",
+    "town": "Westwood",
+    "address": "325 Broadway, Westwood, NJ 07675",
+    "status": "open",
+    "website": "https://1950originals.com/",
+    "blurb": "1950 Originals opened on October 15, 2023 in Westwood, Bergen County, at the former site of Jack's Cafe. The restaurant serves deep-fried hot dogs (rippers) using a proprietary pork-and-beef blend developed in partnership with Thumann's, alongside an all-beef option. Signature items include the Candy Bacon Peanut Butter Dog and the Hot Honey Pimento Cheese Dog.",
+    "confidence": "high"
+  },
+  {
+    "id": "r6c02",
+    "name": "Popik's Place",
+    "town": "Scotch Plains",
+    "address": "427 Terrill Rd, Scotch Plains, NJ 07023",
+    "status": "open",
+    "website": null,
+    "blurb": "Popik's Place is a small trailer operation in a parking lot on Terrill Road in Scotch Plains, run by owner Steve. The stand serves Sabrette hot dogs cooked dirty-water style — kept in hot steam water until ordered — and is open Monday through Saturday. The business has operated for well over two decades and also offers chili dogs.",
+    "confidence": "medium"
+  },
+  {
+    "id": "r6c03",
+    "name": "Curbside Cafe",
+    "town": "Parsippany",
+    "address": "100 US Hwy 46, Parsippany, NJ",
+    "status": "open",
+    "website": null,
+    "blurb": "Curbside Cafe is a roadside hot dog stand on Route 46 in Parsippany that has been recognized as a top destination for chili dogs in New Jersey. The stand serves Sabrett hot dogs dirty-water style topped with a homemade chili and sautéed onions that provide moderate heat without overpowering the dog. The no-frills format and quality chili have earned the cafe a loyal local following.",
+    "confidence": "high"
+  },
+  {
+    "id": "r6c04",
+    "name": "Middlesex Texas Weiner",
+    "town": "Middlesex",
+    "address": "1355 Bound Brook Rd, Middlesex, NJ",
+    "status": "open",
+    "website": "https://www.middlesextexasweinernj.com/",
+    "blurb": "Middlesex Texas Weiner has operated at this Bound Brook Road location since 1985 under owners Tony and Paul Kamarinopoulos. The luncheonette is part of a cluster of Plainfield-area establishments carrying on the Greek-influenced Texas Weiner tradition, serving a thin, cinnamon-and-clove-spiced chili sauce over griddled hot dogs with mustard and onions. It anchors one end of a local \"Texas Weiner tour\" that encompasses several nearby Dunellen and Plainfield-area spots.",
+    "confidence": "high"
+  },
+  {
+    "id": "r6c05",
+    "name": "Goffle Grill",
+    "town": "Hawthorne",
+    "address": "1140 Goffle Rd, Hawthorne, NJ",
+    "status": "open",
+    "website": "https://gofflegrill.com/",
+    "blurb": "Goffle Grill has served the Passaic County-style Texas Weiner from its Hawthorne location since 1979. The signature preparation is a deep-fried hot dog dressed with raw onions, mustard, and a spiced thin chili sauce with notes of clove and cinnamon — a style the county credits to Paterson origins. In early 2026 the restaurant announced a food truck extension of the business.",
+    "confidence": "high"
+  },
+  {
+    "id": "r6c06",
+    "name": "Dewey's Dogs",
+    "town": "Forked River",
+    "address": "118 N Main St, Forked River, NJ",
+    "status": "open",
+    "website": null,
+    "blurb": "Dewey's Dogs in Forked River began as a food truck on Route 9 before settling into its current brick-and-mortar location. The stand serves hot dogs with housemade chili and stewed hot onions, and also offers Newark-style Italian hot dogs on pizza bread. It has built a local following in Ocean County as a reliable neighborhood hot dog destination.",
+    "confidence": "medium"
+  },
+  {
+    "id": "r6c07",
+    "name": "Jimmy's Doggie Stand",
+    "town": "Phillipsburg",
+    "address": "7 Union Square, Phillipsburg, NJ 08865",
+    "status": "open",
+    "website": "https://jimmysds.com/",
+    "blurb": "Jimmy's Doggie Stand occupies a historic hot dog site at 7 Union Square in Phillipsburg, Warren County, at the foot of the Free Bridge on the New Jersey bank of the Delaware River. The stand revives the Easton-style hot dog tradition — shallow-fried and steamed in wax paper, served with mustard, onion, and pickle — first pioneered on this lot by Jimmy Makris starting in 1910. The current business, which reopened around 2009 under new ownership, has no familial connection to the original operators.",
+    "confidence": "high"
+  },
+  {
+    "id": "r6c08",
+    "name": "Maui's Dog House",
+    "town": "North Wildwood",
+    "address": "806 New Jersey Ave, North Wildwood, NJ",
+    "status": "open",
+    "website": "https://www.mauisdoghouse.com/",
+    "blurb": "Maui's Dog House opened in July 1999 in North Wildwood, Cape May County, offering an eclectic selection of hot dogs with over 29 topping combinations. Among the featured preparations is an Italian-style dog with peppers, onions, garlic, and sharp provolone cheese. The restaurant gained broader recognition after being featured on Food Network's \"Diners, Drive-Ins and Dives\" in 2010.",
+    "confidence": "high"
+  },
+  {
+    "id": "r6c09",
+    "name": "Dicky's Dogs",
+    "town": "Toms River",
+    "address": "332 Atlantic City Blvd, Toms River, NJ",
+    "status": "open",
+    "website": null,
+    "blurb": "Dicky's Dogs opened in 2015 in Toms River, Ocean County, near the Jersey Shore. The menu features Sabrett beef hot dogs and Schickhaus Jumbo franks available grilled, dirty-water style, or fried, alongside specialty preparations like the bacon-wrapped \"Master Law Dog\" (with pork roll, egg, and cheese) and international riffs like the Columbian Dog and Tropical Dog. The spot has earned recognition for its chili dogs in Ocean County.",
+    "confidence": "high"
+  },
+  {
+    "id": "r6c10",
+    "name": "Hot Diggity Dog",
+    "town": "Chatsworth",
+    "address": "Routes 532 & 563, Chatsworth, NJ 08019",
+    "status": "open",
+    "website": "https://www.hotdiggidydog.us/",
+    "blurb": "Hot Diggidy Dog (note: official spelling differs) opened in May 1989 in downtown Chatsworth, in the heart of New Jersey's Pine Barrens, when owner Robyn started the business to fund college. The seasonal outdoor stand — open approximately May through October, weather permitting — serves Dietz & Watson hot dogs, hot sausage, jalapeño cheddar dogs, cheddar wurst, and Polish kielbasa. It has operated continuously for over 35 years as a local institution in this small Burlington County community.",
+    "confidence": "high"
+  },
+  {
+    "id": "r6c11",
+    "name": "Layton Cattle Company",
+    "town": "Sandyston",
+    "address": "269 US-206, Sandyston, NJ",
+    "status": "open",
+    "website": "https://laytoncattle.com/",
+    "blurb": "Layton Cattle Company is a family-owned Angus beef farm in Sandyston Township, Sussex County, operating on approximately 140 acres in the hills of Layton, NJ. Brothers Steve and Kevin Green run the operation, which includes a farm store at 269 US Route 206 selling farm-raised beef products including hot dogs made from their own cattle. The farm store and hot dog offering have been listed under \"Hot Dogs\" on review platforms starting around 2024.",
+    "confidence": "medium"
+  },
+  {
+    "id": "r6c12",
+    "name": "Noah's Ark",
+    "town": "Teaneck",
+    "address": "493 Cedar Lane, Teaneck, NJ",
+    "status": "open",
+    "website": "https://www.noahsark.net/",
+    "blurb": "Noah's Ark was founded in 1988 by Noam Sokolow on Cedar Lane in Teaneck, Bergen County, and has grown into what it describes as the largest family Glatt Kosher restaurant in New Jersey, with over 140 menu items. Hot dogs are a menu staple — famously offered buy-one, get-the-second-for-five-cents — alongside deli classics such as pastrami, brisket, knishes, and homemade soups. Every table order arrives with a house bucket of pickles, bread, and coleslaw.",
+    "confidence": "high"
+  }
+]

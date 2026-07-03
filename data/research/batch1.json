@@ -1,0 +1,162 @@
+[
+  {
+    "id": "r1c01",
+    "name": "Rutt's Hutt",
+    "town": "Clifton",
+    "address": "417 River Rd, Clifton, NJ 07014",
+    "status": "open",
+    "website": "https://www.ruttshut.com/",
+    "blurb": "Founded in 1928 by Royal 'Abe' Rutt and his wife Anna, Rutt's Hut is widely credited as the originator of the 'ripper,' a deep-fried hot dog whose natural casing splits open in the fryer. The restaurant's proprietary house relish—a blend of mustard, pickle relish, and cabbage—has become as iconic as the dogs themselves. Rutt's Hut has repeatedly been named the top hot dog in the nation by national food publications.",
+    "confidence": "high"
+  },
+  {
+    "id": "r1c14",
+    "name": "Local Smoke BBQ",
+    "town": "Neptune City",
+    "address": "719 Route 35, Neptune City, NJ 07753",
+    "status": "open",
+    "website": "https://localsmokebbq.com/",
+    "blurb": "Local Smoke BBQ was founded in 2007 as a competition BBQ team before pivoting to full-service catering and opening brick-and-mortar restaurants in 2011, with Neptune City among the first locations. The menu centers on wood-smoked meats and includes a signature smoked hot dog served with BBQ beans, coleslaw, and Carolina mustard. The brand has since grown to multiple New Jersey locations.",
+    "confidence": "medium"
+  },
+  {
+    "id": "r2c01",
+    "name": "Hiram's",
+    "town": "Fort Lee",
+    "address": "1345 Palisade Ave, Fort Lee, NJ 07024",
+    "status": "open",
+    "website": null,
+    "blurb": "Hiram's Roadstand has been a Fort Lee institution since the early 1930s, known for its deep-fried ripper hot dogs in the Bergen County tradition. The roadstand gained national attention when Anthony Bourdain featured it on 'Parts Unknown.' Pete Demiris and Jeffrey Escudero have owned and operated Hiram's since 2001.",
+    "confidence": "high"
+  },
+  {
+    "id": "r2c02",
+    "name": "Hank's Franks",
+    "town": "Lodi",
+    "address": "210 US Hwy 46 E, Lodi, NJ 07644",
+    "status": "open",
+    "website": null,
+    "blurb": "Hank's Franks was started in 1959 by Hank Benanti with a pushcart; a permanent structure was added in 1965. The stand is one of the few remaining North Jersey establishments to cook Sabrett all-beef natural-casing hot dogs in the classic dirty-water (hot-water bath) style, served with homemade red onion sauce. Hank's son Gary continues to run the family business.",
+    "confidence": "high"
+  },
+  {
+    "id": "r2c09",
+    "name": "Max's",
+    "town": "Long Branch",
+    "address": "25 Matilda Ter, Long Branch, NJ 07740",
+    "status": "open",
+    "website": "http://www.maxsbarandgrilllongbranchnj.com/",
+    "blurb": "Max Altman opened the original hot dog stand on the Long Branch boardwalk in 1928; the restaurant has occupied its current inland location since 1984. Now operating as Max's Bar & Grill following a 2018 renovation, the establishment retains its signature quarter-pound Schickhaus beef-and-pork hot dog slow-cooked on a griddle. Third-generation owner Jennifer Maybaum oversees the business.",
+    "confidence": "high"
+  },
+  {
+    "id": "r2c10",
+    "name": "Karl Ehmer",
+    "town": "Hillsdale",
+    "address": "120 Broadway, Hillsdale, NJ 07642",
+    "status": "open",
+    "website": "https://karlehmer.com/",
+    "blurb": "Karl Ehmer was founded in 1932 by a German immigrant butcher and has long supplied the New York-New Jersey tri-state area with German and European-style sausages and deli provisions. The Hillsdale, NJ retail shop carries an extensive selection of wurst, smoked meats, and German specialty items. The brand also distributes its products nationally through retail channels.",
+    "confidence": "high"
+  },
+  {
+    "id": "r2c11",
+    "name": "Hacklebarney Farm",
+    "town": "Chester",
+    "address": "104 State Park Rd, Chester, NJ 07930",
+    "status": "open",
+    "website": "https://www.hacklebarneyfarm.com/",
+    "blurb": "A seventh-generation farm in Chester, Morris County, Hacklebarney Farm Cider Mill is known primarily for its wood-pressed apple cider and seasonal baked goods. The farm's notable food offering includes 'cider hot dogs'—hot dogs prepared with apple cider and served with apple cider sauerkraut. The farm operates seasonally, generally open on weekends.",
+    "confidence": "medium"
+  },
+  {
+    "id": "r2c12",
+    "name": "Goodman's Deli",
+    "town": "Berkeley Heights",
+    "address": "400 Springfield Ave, Berkeley Heights, NJ 07922",
+    "status": "open",
+    "website": "https://www.goodmansdeli.net/",
+    "blurb": "Goodman's Deli has operated since 1943, originally in Elizabeth before relocating to Berkeley Heights more than 20 years ago. A kosher-style Jewish deli, it serves a broad menu of classic deli sandwiches, matzo ball soup, and hot dogs—including Chicago-style preparations—in an old-school neighborhood atmosphere. The deli has been a New Jersey institution for over 80 years.",
+    "confidence": "high"
+  },
+  {
+    "id": "r2c13",
+    "name": "Nathan's Famous",
+    "town": "multiple NJ locations",
+    "address": null,
+    "status": "open",
+    "website": "https://nathansfamous.com/",
+    "blurb": "Nathan's Famous was founded by Nathan Handwerker in 1916 on Coney Island, Brooklyn, and grew into one of America's most recognized hot dog brands. The chain operates franchise restaurant locations throughout New Jersey and distributes its branded hot dogs nationally through major retail channels. In early 2026, Nathan's Famous agreed to be acquired by Smithfield Foods in an all-cash transaction valued at approximately $450 million.",
+    "confidence": "high"
+  },
+  {
+    "id": "r2c14",
+    "name": "Captain Paul's",
+    "town": "Lawrence Township",
+    "address": "2230 Princeton Pike, Lawrenceville, NJ 08648",
+    "status": "closed",
+    "website": null,
+    "blurb": "Captain Paul's Firehouse Dogs was opened in 2009 by Paul Tweedly, a retired Trenton Fire Department captain, in Lawrence Township near Princeton. The restaurant built a following for its firefighter-themed creative hot dogs, including the 'Third Alarm' chili dog with onions and mustard and the 'Battleship' fried dog with Carolina Reaper pepper sauce. The Tweedly family sold the restaurant after approximately 15 years and the new ownership subsequently closed it.",
+    "confidence": "high"
+  },
+  {
+    "id": "r3c01",
+    "name": "Jolly Nick's",
+    "town": "Dumont",
+    "address": "31 E Madison Ave, Dumont, NJ 07628",
+    "status": "open",
+    "website": null,
+    "blurb": "Nick Zambitto opened his first hot dog stand in Cresskill in the early 1960s, and the Jolly Nick's brand later expanded to locations including Westwood and Dumont. The Dumont shop is a Bergen County institution serving deep-fried ripper hot dogs in the North Jersey tradition. The stand has maintained a loyal local following across multiple decades.",
+    "confidence": "high"
+  },
+  {
+    "id": "r3c02",
+    "name": "Dee's Hut",
+    "town": "Roselle Park",
+    "address": "Faitoute Ave at Webster Ave, Roselle Park, NJ 07204",
+    "status": "open",
+    "website": null,
+    "blurb": "Dee's Hut is a family-operated hot dog cart run by the Antonucci family, stationed near Lincoln Park on Faitoute Avenue in Roselle Park. The stand serves Sabrett all-beef natural-casing hot dogs in the dirty-water (hot-water bath) style with homemade red onion sauce as a signature topping. The cart has been a Union County fixture since the mid-1960s.",
+    "confidence": "medium"
+  },
+  {
+    "id": "r3c03",
+    "name": "Galloping Hill",
+    "town": "Union",
+    "address": "325 Chestnut St, Union, NJ 07083",
+    "status": "open",
+    "website": "https://gallopinghillinnhotdogs.com/",
+    "blurb": "Galloping Hill Inn has served hot dogs and burgers at the Five Points intersection in Union since 1925, making it one of New Jersey's longest-operating hot dog stands. The restaurant is known for its chili-topped dogs and has accumulated numerous regional awards over its nearly century-long history. Its classic roadside-stand format has remained largely unchanged across the decades.",
+    "confidence": "high"
+  },
+  {
+    "id": "r3c04",
+    "name": "J&G Texas Weiner",
+    "town": "Dunellen",
+    "address": "238 North Ave, Dunellen, NJ 08812",
+    "status": "open",
+    "website": "http://www.jgtexasweiners.com/",
+    "blurb": "J&G Texas Weiners has operated in Dunellen since 1977, serving the Plainfield-area style Texas Weiner: a natural-casing hot dog topped with mustard, raw onions, and a Greek-inspired aromatic meat chili sauce seasoned with cinnamon, allspice, and cloves. The family-owned stand opens at 5:30 a.m. for a breakfast-through-lunch schedule. The chili recipe reflects the Greek immigrant heritage common to Texas Weiner operators across the region.",
+    "confidence": "high"
+  },
+  {
+    "id": "r3c05",
+    "name": "Johnny and Hanges",
+    "town": "Fair Lawn",
+    "address": "23-20 Maple Ave, Fair Lawn, NJ 07410",
+    "status": "open",
+    "website": null,
+    "blurb": "The original Johnny and Hanges opened on River Street in Paterson around 1939 as one of the foundational Texas Weiner restaurants in the Passaic County tradition. The name and signature chili recipe were purchased in 1999 and the restaurant reopened at its current Fair Lawn location. The restaurant is known for its 'all the way' hot dogs topped with Greek-style meat chili, mustard, and raw onions.",
+    "confidence": "medium"
+  },
+  {
+    "id": "r3c06",
+    "name": "Tony's Specialized",
+    "town": "Newark",
+    "address": "Park Ave & Lake St, Newark, NJ 07104",
+    "status": "open",
+    "website": "https://tonyshotdogs.com/",
+    "blurb": "Tony's Specialized Hot Dogs has operated at Branch Brook Park in Newark since 1968, serving the Newark-style hot dog distinguished by its signature hot stewed onion topping. The stand is celebrated locally for its homemade hot onions, which have built a devoted following among Newark residents and visitors over more than five decades. The cart is stationed at the corner of Park Avenue and Lake Street near the park entrance.",
+    "confidence": "high"
+  }
+]

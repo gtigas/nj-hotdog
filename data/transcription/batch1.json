@@ -1,0 +1,222 @@
+[
+  {
+    "id": "r1c01",
+    "symbol": "Rh",
+    "name": "Rutt's Hutt",
+    "year": 1928,
+    "franks_ratio": "8:1",
+    "ingredients": ["b", "p"],
+    "topping_codes": ["r"],
+    "brand": "Thumann's",
+    "uncertain": null
+  },
+  {
+    "id": "r1c14",
+    "symbol": "Sm",
+    "name": "Local Smoke",
+    "year": 2007,
+    "franks_ratio": "6:1",
+    "ingredients": ["b"],
+    "topping_codes": ["bbq", "bc"],
+    "brand": "Berks",
+    "uncertain": null
+  },
+  {
+    "id": "r2c01",
+    "symbol": "Hi",
+    "name": "Hiram's",
+    "year": 1928,
+    "franks_ratio": "6:1",
+    "ingredients": ["b", "p"],
+    "topping_codes": ["m"],
+    "brand": "Thumann's",
+    "uncertain": null
+  },
+  {
+    "id": "r2c02",
+    "symbol": "Hf",
+    "name": "Hank's Franks",
+    "year": 1959,
+    "franks_ratio": "12:1",
+    "ingredients": ["b"],
+    "topping_codes": ["os"],
+    "brand": "Sabrett",
+    "uncertain": null
+  },
+  {
+    "id": "r2c09",
+    "symbol": "Mx",
+    "name": "Max's",
+    "year": 1928,
+    "franks_ratio": "4:1",
+    "ingredients": ["b", "p"],
+    "topping_codes": ["r"],
+    "brand": "Wenning",
+    "uncertain": null
+  },
+  {
+    "id": "r2c10",
+    "symbol": "Ka",
+    "name": "Karl Ehmer",
+    "year": 1932,
+    "franks_ratio": "4:1",
+    "ingredients": ["b", "p"],
+    "topping_codes": ["m"],
+    "brand": "Karl Ehmer",
+    "uncertain": null
+  },
+  {
+    "id": "r2c11",
+    "symbol": "Ha",
+    "name": "Hacklebarney Farm",
+    "year": 1970,
+    "franks_ratio": "10:1",
+    "ingredients": ["b"],
+    "topping_codes": ["cb"],
+    "brand": "Nathan's",
+    "uncertain": null
+  },
+  {
+    "id": "r2c12",
+    "symbol": "Gd",
+    "name": "Goodman's Deli",
+    "year": 1943,
+    "franks_ratio": "4:1",
+    "ingredients": ["b"],
+    "topping_codes": ["m"],
+    "brand": "Best's",
+    "uncertain": null
+  },
+  {
+    "id": "r2c13",
+    "symbol": "Na",
+    "name": "Nathan's Famous",
+    "year": 1916,
+    "franks_ratio": "6:1",
+    "ingredients": ["b"],
+    "topping_codes": ["m"],
+    "brand": "Nathan's",
+    "uncertain": null
+  },
+  {
+    "id": "r2c14",
+    "symbol": "Ct",
+    "name": "Captain Paul's",
+    "year": 2009,
+    "franks_ratio": "8:1",
+    "ingredients": ["b", "p"],
+    "topping_codes": ["hs", "mac"],
+    "brand": "Hatfield",
+    "uncertain": null
+  },
+  {
+    "id": "r3c01",
+    "symbol": "Jn",
+    "name": "Jolly Nick's",
+    "year": 1960,
+    "franks_ratio": "6:1",
+    "ingredients": ["b", "p"],
+    "topping_codes": ["m", "hs"],
+    "brand": "Thumann's",
+    "uncertain": null
+  },
+  {
+    "id": "r3c02",
+    "symbol": "Dh",
+    "name": "Dee's Hut",
+    "year": 1960,
+    "franks_ratio": "10:1",
+    "ingredients": ["b"],
+    "topping_codes": ["sk"],
+    "brand": "Sabrett",
+    "uncertain": null
+  },
+  {
+    "id": "r3c03",
+    "symbol": "Gh",
+    "name": "Galloping Hill",
+    "year": 1925,
+    "franks_ratio": "6:1",
+    "ingredients": ["b", "p"],
+    "topping_codes": ["c"],
+    "brand": "Grote & Weigel",
+    "uncertain": null
+  },
+  {
+    "id": "r3c04",
+    "symbol": "Jg",
+    "name": "J&G Texas Weiner",
+    "year": 1977,
+    "franks_ratio": "6:1",
+    "ingredients": ["b", "p"],
+    "topping_codes": ["c", "m", "o"],
+    "brand": "Grote & Weigel",
+    "uncertain": null
+  },
+  {
+    "id": "r3c05",
+    "symbol": "Jh",
+    "name": "Johnny and Hanges",
+    "year": 1929,
+    "franks_ratio": "8:1",
+    "ingredients": ["b", "p"],
+    "topping_codes": ["c", "m", "o"],
+    "brand": "Thumann's",
+    "uncertain": null
+  },
+  {
+    "id": "r3c06",
+    "symbol": "To",
+    "name": "Tony's Specialized",
+    "year": 1968,
+    "franks_ratio": "10:1",
+    "ingredients": ["b"],
+    "topping_codes": ["ho"],
+    "brand": "Sabrett",
+    "uncertain": "Topping code reads 'ho' in italic, which is not in the known valid code vocabulary. Possibly 'go' (grilled onions) with the 'g' misread as 'h', or a non-standard abbreviation."
+  },
+  {
+    "id": "r3c07",
+    "symbol": "Js",
+    "name": "Joe's Steak Shop",
+    "year": 1938,
+    "franks_ratio": "8:1",
+    "ingredients": ["b", "p"],
+    "topping_codes": ["m", "o", "p"],
+    "brand": "Berks",
+    "uncertain": null
+  },
+  {
+    "id": "r3c08",
+    "symbol": "Jb",
+    "name": "Jimmy Buff's",
+    "year": 1932,
+    "franks_ratio": "8:1",
+    "ingredients": ["b"],
+    "topping_codes": ["k", "m", "o", "pe", "po"],
+    "brand": "Best's",
+    "uncertain": null
+  },
+  {
+    "id": "r3c09",
+    "symbol": "Wo",
+    "name": "Woodie's",
+    "year": 1954,
+    "franks_ratio": "5:1",
+    "ingredients": ["b", "p"],
+    "topping_codes": ["49", "s"],
+    "brand": "Thumann's",
+    "uncertain": null
+  },
+  {
+    "id": "r3c10",
+    "symbol": "Br",
+    "name": "Barth's Market",
+    "year": 1940,
+    "franks_ratio": "5:1",
+    "ingredients": ["b", "p", "v"],
+    "topping_codes": ["m"],
+    "brand": "Barth's Market",
+    "uncertain": null
+  }
+]

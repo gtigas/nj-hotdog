@@ -1,0 +1,222 @@
+[
+  {
+    "id": "r6c09",
+    "symbol": "Di",
+    "name": "Dicky's Dogs",
+    "year": 2015,
+    "franks_ratio": "4:1",
+    "ingredients": ["b", "p"],
+    "topping_codes": ["os"],
+    "brand": "Wenning",
+    "uncertain": null
+  },
+  {
+    "id": "r6c10",
+    "symbol": "Hd",
+    "name": "Hot Diggity Dog",
+    "year": 1989,
+    "franks_ratio": "5:1",
+    "ingredients": ["b", "p"],
+    "topping_codes": ["bm"],
+    "brand": "Dietz & Watson",
+    "uncertain": null
+  },
+  {
+    "id": "r6c11",
+    "symbol": "Lc",
+    "name": "Layton Cattle Company",
+    "year": 2024,
+    "franks_ratio": "6:1",
+    "ingredients": ["b"],
+    "topping_codes": ["m"],
+    "brand": "Layton Cattle Company",
+    "uncertain": null
+  },
+  {
+    "id": "r6c12",
+    "symbol": "Nk",
+    "name": "Noah's Ark",
+    "year": 1988,
+    "franks_ratio": "8:1",
+    "ingredients": ["b"],
+    "topping_codes": ["m"],
+    "brand": "Abeles & Heymann",
+    "uncertain": null
+  },
+  {
+    "id": "r6c13",
+    "symbol": "Pt",
+    "name": "Somerset Patriots",
+    "year": 1999,
+    "franks_ratio": "4:1",
+    "ingredients": ["b"],
+    "topping_codes": ["k", "m", "r"],
+    "brand": "Sabrett",
+    "uncertain": null
+  },
+  {
+    "id": "r6c14",
+    "symbol": "Cn",
+    "name": "Coniglio's",
+    "year": 2023,
+    "franks_ratio": "4:1",
+    "ingredients": ["b"],
+    "topping_codes": ["se"],
+    "brand": "Block & Barrel",
+    "uncertain": null
+  },
+  {
+    "id": "r7c01",
+    "symbol": "Mh",
+    "name": "Meat Us Here",
+    "year": 2025,
+    "franks_ratio": "6:1",
+    "ingredients": ["b", "p"],
+    "topping_codes": ["r", "sm"],
+    "brand": "Thumann's",
+    "uncertain": null
+  },
+  {
+    "id": "r7c02",
+    "symbol": "Ra",
+    "name": "Randy's",
+    "year": 2004,
+    "franks_ratio": "6:1",
+    "ingredients": ["b"],
+    "topping_codes": ["sm"],
+    "brand": "Thumann's",
+    "uncertain": null
+  },
+  {
+    "id": "r7c03",
+    "symbol": "Pr",
+    "name": "Johnny Prince's Bayway Diner",
+    "year": 2014,
+    "franks_ratio": "6:1",
+    "ingredients": ["b"],
+    "topping_codes": ["c"],
+    "brand": "Sabrett",
+    "uncertain": null
+  },
+  {
+    "id": "r7c04",
+    "symbol": "Pp",
+    "name": "Pop's Place",
+    "year": 2020,
+    "franks_ratio": "6:1",
+    "ingredients": ["b"],
+    "topping_codes": ["c", "m", "o"],
+    "brand": "Sabrett",
+    "uncertain": null
+  },
+  {
+    "id": "r7c05",
+    "symbol": "Jo",
+    "name": "Jersey Johnny's",
+    "year": 2008,
+    "franks_ratio": "8:1",
+    "ingredients": ["b", "p"],
+    "topping_codes": ["c", "m", "o"],
+    "brand": "Thumann's",
+    "uncertain": null
+  },
+  {
+    "id": "r7c06",
+    "symbol": "Bi",
+    "name": "Big Ds",
+    "year": 2012,
+    "franks_ratio": "10:1",
+    "ingredients": ["b"],
+    "topping_codes": ["ho"],
+    "brand": "Sabrett",
+    "uncertain": "Topping code reads 'ho' which is not in the standard vocabulary; could be 'hu' but the second letter is visually a closed 'o' not an open 'u'"
+  },
+  {
+    "id": "r7c07",
+    "symbol": "Ch",
+    "name": "Charlie's Hot Dogs",
+    "year": 2025,
+    "franks_ratio": "8:1",
+    "ingredients": ["b"],
+    "topping_codes": ["hu", "m", "o", "pe"],
+    "brand": "Berks",
+    "uncertain": null
+  },
+  {
+    "id": "r7c08",
+    "symbol": "Je",
+    "name": "Jeppy's II",
+    "year": 2009,
+    "franks_ratio": "6:1",
+    "ingredients": ["b"],
+    "topping_codes": ["m", "o", "pe", "po"],
+    "brand": "Nathan's",
+    "uncertain": null
+  },
+  {
+    "id": "r7c09",
+    "symbol": "Da",
+    "name": "Double A's Eats",
+    "year": 2020,
+    "franks_ratio": "4:1",
+    "ingredients": ["b", "p"],
+    "topping_codes": ["c", "os"],
+    "brand": "Sabrett",
+    "uncertain": null
+  },
+  {
+    "id": "r7c10",
+    "symbol": "Rc",
+    "name": "Rose City Wurst",
+    "year": 2023,
+    "franks_ratio": "5:1",
+    "ingredients": ["b", "p"],
+    "topping_codes": ["m"],
+    "brand": "Schmalz's",
+    "uncertain": null
+  },
+  {
+    "id": "r7c11",
+    "symbol": "Hh",
+    "name": "Haddon Hall Hot Dawgs",
+    "year": 2024,
+    "franks_ratio": "10:1",
+    "ingredients": ["b"],
+    "topping_codes": ["hm"],
+    "brand": "Applegate Farms",
+    "uncertain": null
+  },
+  {
+    "id": "r7c12",
+    "symbol": "Hl",
+    "name": "Harold's New York Deli",
+    "year": 1998,
+    "franks_ratio": "2:1",
+    "ingredients": ["b"],
+    "topping_codes": ["pl"],
+    "brand": "Best's",
+    "uncertain": "Topping code 'pl' is printed in parentheses as '(pl)' on the tile, possibly indicating it is optional or served on the side"
+  },
+  {
+    "id": "r7c13",
+    "symbol": "Sh",
+    "name": "Shake Shack",
+    "year": 2001,
+    "franks_ratio": "8:1",
+    "ingredients": ["b"],
+    "topping_codes": ["k"],
+    "brand": "Vienna Beef",
+    "uncertain": null
+  },
+  {
+    "id": "r7c14",
+    "symbol": "Sc",
+    "name": "Surf City Dog House",
+    "year": 2024,
+    "franks_ratio": "4:1",
+    "ingredients": ["b", "p"],
+    "topping_codes": ["hm", "pg"],
+    "brand": "Thumann's",
+    "uncertain": null
+  }
+]

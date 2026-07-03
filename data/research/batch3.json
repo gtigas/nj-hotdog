@@ -1,0 +1,162 @@
+[
+  {
+    "id": "r4c09",
+    "name": "Windmill",
+    "town": "Long Branch",
+    "address": "586 Ocean Blvd, Long Branch, NJ 07740",
+    "status": "open",
+    "website": "https://windmillhotdogs.com",
+    "blurb": "The Windmill opened in 1963 in the West End section of Long Branch, serving oversized jumbo beef hot dogs that became a Jersey Shore institution. The original windmill-shaped stand was purchased by Leo and Ed Levine in 1976, who expanded the chain; it now operates five locations across Monmouth County. The restaurant is best known for its flat-grilled quarter-pound jumbo franks and seasoned cheese fries.",
+    "confidence": "high"
+  },
+  {
+    "id": "r4c10",
+    "name": "Forked River German Butcher",
+    "town": "Forked River",
+    "address": "109 Lacey Rd, Forked River, NJ 08731",
+    "status": "open",
+    "website": "https://www.germanbutcher.com",
+    "blurb": "The Barsch family emigrated from Germany in 1969 and settled in Forked River, opening their butcher shop shortly thereafter (the poster year reflects the family's arrival). The shop handcrafts approximately 80% of its cold cuts on-premises, including a wide variety of wursts, hot dogs, kielbasa, and German bologna using Old World techniques. It also carries imported German specialty foods and condiments, and serves sandwiches and prepared meals.",
+    "confidence": "high"
+  },
+  {
+    "id": "r4c11",
+    "name": "Beach Plum Farm",
+    "town": "West Cape May",
+    "address": "140 Stevens St, West Cape May, NJ 08204",
+    "status": "open",
+    "website": "https://www.caperesorts.com/beach-plum-farm",
+    "blurb": "Beach Plum Farm was founded in 2007 by Cape Resorts developer Curtis Bashaw as a working farm raising heritage-breed livestock and seasonal produce for the company's Cape May hotels and restaurants. The farm supplies farm-raised meats, including pork products and sausages, to venues such as the Blue Pig Tavern at Congress Hall and the Ebbitt Room at the Virginia Hotel. The farm operates a market and kitchen on-site offering its own raised ingredients.",
+    "confidence": "high"
+  },
+  {
+    "id": "r4c12",
+    "name": "Hobby's",
+    "town": "Newark",
+    "address": "32 Branford Pl, Newark, NJ 07102",
+    "status": "open",
+    "website": "https://www.hobbysdeli.com",
+    "blurb": "Hobby's Delicatessen and Restaurant has been run by the Brummer family since 1962, occupying a Branford Place address with a food-service history dating back to at least the 1910s. The deli is celebrated for its house-pickled corned beef, brined on-site in fifty-gallon stainless steel vats, alongside a full kosher-style menu. It has been named one of the top ten Jewish delis in America by multiple publications and is consistently cited as the only New Jersey entry on such national lists.",
+    "confidence": "high"
+  },
+  {
+    "id": "r4c13",
+    "name": "Costco",
+    "town": null,
+    "address": null,
+    "status": "open",
+    "website": "https://www.costco.com",
+    "blurb": "Costco introduced its $1.50 hot dog and soda combo in 1984 at a food-court cart outside its first San Diego warehouse, one year after the chain's founding. The price has never been raised despite decades of inflation, a deliberate loss-leader strategy by co-founder Jim Sinegal to drive warehouse foot traffic. In 2009 Costco switched from Hebrew National to its own Kirkland Signature all-beef franks, and the combo now reportedly sells more units annually than all of major league baseball's stadiums combined.",
+    "confidence": "high"
+  },
+  {
+    "id": "r4c14",
+    "name": "Destination Dogs",
+    "town": "New Brunswick",
+    "address": "101 Paterson St, New Brunswick, NJ 08901",
+    "status": "open",
+    "website": "https://destinationdogs.com",
+    "blurb": "Destination Dogs was founded in 2012 by Jimmy Cronk and Sean Hosty, who met while working at another New Brunswick restaurant, and moved to its current Paterson Street location in 2013. The menu features approximately 34 globally inspired gourmet hot dogs and sausages, each handmade in-house with preparations drawn from cuisines around the world. The restaurant occupies the former Doll's Place bar, preserving original fixtures and signage from the historic venue.",
+    "confidence": "high"
+  },
+  {
+    "id": "r5c01",
+    "name": "Rocco's",
+    "town": "Kenvil",
+    "address": "405 US-46, Kenvil, NJ 07847",
+    "status": "open",
+    "website": "https://www.roccosburgers.com",
+    "blurb": "Rocco's Burgers Dogs and Fries opened on Route 46 in Kenvil (Roxbury Township) in 2015, specializing in deep-fried ripper-style hot dogs made with Thumann's beef-pork blend franks cooked in 100% peanut oil until the casings burst open. The stand follows the North Jersey and Bergen/Passaic County ripper tradition and also serves hand-cut fries made to order and fresh-ground beef burgers. The operation is roadside and counter-service.",
+    "confidence": "high"
+  },
+  {
+    "id": "r5c02",
+    "name": "Sophie's",
+    "town": "Morristown",
+    "address": "3 W Park Pl, Morristown, NJ 07960",
+    "status": "open",
+    "website": null,
+    "blurb": "Sophie Hsieh has operated her blue and yellow hot dog cart on the Morristown Green since February 1984, making her a downtown Morristown institution for over four decades. She serves Sabrett beef hot dogs available boiled dirty-water style, grilled, or fried, with a range of toppings. The stand operates seasonally from March through December, roughly 11 a.m. to 6 p.m., and has outlasted multiple national chain restaurants that opened and closed around the Green.",
+    "confidence": "high"
+  },
+  {
+    "id": "r5c03",
+    "name": "Dover Grill",
+    "town": "Dover",
+    "address": "240 US Hwy 46, Dover, NJ 07801",
+    "status": "open",
+    "website": null,
+    "blurb": "Dover Grill is a seasonal, cash-only outdoor stand on Route 46 in Dover (Morris County) known for its chili dogs topped with homemade chili, mustard, and hot onions. The stand operates approximately March through late October with picnic-table seating, and has built a regional following as one of the state's most-recommended hot dog destinations. The Tripadvisor listing dates it to around 2001, though its exact founding year is unconfirmed.",
+    "confidence": "medium"
+  },
+  {
+    "id": "r5c04",
+    "name": "Red Tower II",
+    "town": "North Plainfield",
+    "address": "864 US-22, North Plainfield, NJ 07060",
+    "status": "open",
+    "website": null,
+    "blurb": "Red Tower II is a roadside stand on Route 22 in North Plainfield serving the Plainfield-style Texas weiner, a deep-fried beef-and-pork hot dog topped with mustard, onions, and a Greek-influenced chili sauce specific to the Union County corridor. It is one of the few remaining stands keeping the Plainfield variation of the Texas weiner tradition alive. The restaurant also serves burgers and standard American diner fare.",
+    "confidence": "high"
+  },
+  {
+    "id": "r5c05",
+    "name": "Hot Grill",
+    "town": "Clifton",
+    "address": "669 Lexington Ave, Clifton, NJ 07011",
+    "status": "open",
+    "website": "https://thehotgrill.com",
+    "blurb": "The Hot Grill opened on October 13, 1961, founded by Carmen La Mendola, Domenick Sportelli, Nick Dorris, and Peter Leonidas in Clifton, Passaic County. The restaurant specializes in Texas Weiners served \"all the way\"—deep-fried beef-and-pork dogs topped with mustard, diced onions, and a proprietary secret chili sauce rooted in the Paterson, NJ tradition that dates to the 1920s. The original 20-seat counter has expanded into a full restaurant seating more than 100.",
+    "confidence": "high"
+  },
+  {
+    "id": "r5c06",
+    "name": "Chris's Red Hots",
+    "town": "Newark",
+    "address": "248 Heller Pkwy, Newark, NJ 07104",
+    "status": "open",
+    "website": "https://www.chrisredhots.com",
+    "blurb": "Chris' Red Hots was established in 1995 when the founding family converted a 1983 GMC into a hot dog truck and parked it along Heller Parkway at Branch Brook Park in Newark. The truck is known for its stewed hot onions (\"red hots\"), meaty chili, and signature hot cherry pepper mashed potato topping in the Newark hot-onion tradition. The business has since added a brick-and-mortar location at 478 Bloomfield Ave in Verona.",
+    "confidence": "high"
+  },
+  {
+    "id": "r5c07",
+    "name": "Hot Rod's",
+    "town": "Glen Gardner",
+    "address": "2113 State Rt 31, Glen Gardner, NJ 08826",
+    "status": "open",
+    "website": null,
+    "blurb": "Hot Rod's Hot Dogs has operated at 2113 Route 31 in Glen Gardner (Hunterdon County) since 1991, serving Easton-style hot dogs—shallow-fried beef-and-pork skinless franks topped \"all the way\" with yellow mustard, pickle spears, and diced fresh onion, in the tradition shared by Phillipsburg, NJ and Easton, PA across the Delaware River. The small family-owned roadside stand maintains a loyal local following and a nostalgic outdoor atmosphere. The current owners also offer a deep-fried variant called \"The Fryer.\"",
+    "confidence": "high"
+  },
+  {
+    "id": "r5c08",
+    "name": "Tommy's",
+    "town": "Elizabeth",
+    "address": "900 2nd Ave, Elizabeth, NJ 07201",
+    "status": "open",
+    "website": null,
+    "blurb": "Tommy's Italian Sausage & Hot Dogs has operated as a take-out-only window at 900 Second Avenue in Elizabeth since 1969, founded by Tommy Parrinello and later passed to his sons Tommy and Anthony. The stand serves Newark-style Italian hot dogs—deep-fried franks served in pizza bread (a round Italian loaf with a pocket) with fried peppers, onions, and sliced potato medallions. It sits two doors from rival Jerry's Famous Frankfurters and is considered a cornerstone of the Elizabeth hot dog corridor.",
+    "confidence": "high"
+  },
+  {
+    "id": "r5c09",
+    "name": "Edie's Luncheonette",
+    "town": "Little Silver",
+    "address": "164 Rumson Rd, Little Silver, NJ 07739",
+    "status": "open",
+    "website": "https://edieslunch.com",
+    "blurb": "Edie's Luncheonette opened in 1973, named for former owner Edith Bacigalupi, inside a building on Rumson Road that has served food since 1928. Located in Monmouth County near the Jersey Shore, it operates as a classic diner-style breakfast-and-lunch counter known for nostalgic atmosphere and house-seasoned fries. The menu includes hot dogs and American comfort-food staples in the Jersey Shore tradition.",
+    "confidence": "medium"
+  },
+  {
+    "id": "r5c10",
+    "name": "Alpine Meats and Deli",
+    "town": "Blairstown",
+    "address": "57 State Route 94, Blairstown, NJ 07825",
+    "status": "open",
+    "website": "https://alpinemeatsanddeli.com",
+    "blurb": "Alpine Meats and Deli was founded in 1980 in Blairstown (Warren County), maintaining Old World German butchering traditions with German-trained staff. The shop produces approximately 80% of its cold cuts on-premises, including handcrafted wursts, sausages, hot dogs, kielbasa, and German bologna. It also stocks imported German specialty foods, condiments, and candies, and serves sandwiches for lunch alongside deli meats and specialty sausages for retail purchase.",
+    "confidence": "high"
+  }
+]

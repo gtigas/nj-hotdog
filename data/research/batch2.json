@@ -1,0 +1,162 @@
+[
+  {
+    "id": "r3c07",
+    "name": "Joe's Steak Shop",
+    "town": "Phillipsburg",
+    "address": "274 South Main Street, Phillipsburg, NJ 08865",
+    "status": "open",
+    "website": "https://www.joessteakshop.com/",
+    "blurb": "Joe's Steak Shop was founded in 1938 by Joseph Attinello, who had previously cooked at a restaurant near the Easton-Phillipsburg bridge, and is one of the oldest continuously family-run businesses on Phillipsburg's South Main Street in Warren County. Now in its third generation of operation, the shop is best known for its award-winning hot or mild sauce served on cheesesteaks and hot dogs. Proximity to Easton, PA places it squarely in the Easton-style hot dog tradition of Warren County.",
+    "confidence": "high"
+  },
+  {
+    "id": "r3c08",
+    "name": "Jimmy Buff's",
+    "town": "West Orange",
+    "address": "60 Washington St, West Orange, NJ 07052",
+    "status": "open",
+    "website": null,
+    "blurb": "Jimmy Buff's is credited with inventing the Italian hot dog in Newark in 1932, when James 'Buff' Racioppi and his wife Mary began serving the dish to friends at Depression-era card games in their North Ward apartment. The original Newark location at 14th Ave and 9th Street operated until 1974; today two outposts survive in West Orange and Kenilworth, NJ. The signature item is a deep-fried hot dog in pizza bread topped with fried potatoes, peppers, and onions.",
+    "confidence": "high"
+  },
+  {
+    "id": "r3c09",
+    "name": "Woodie's",
+    "town": "Ship Bottom",
+    "address": "509 Long Beach Blvd, Ship Bottom, NJ 08008",
+    "status": "open",
+    "website": "https://www.woodiesdriveinlbi.com/",
+    "blurb": "Woodies Drive-In has operated on Long Beach Island since the mid-1950s, when the property at 509 Long Beach Blvd in Ship Bottom was established as a roadside food stand. Known for jumbo hot dogs, burgers, and soft-serve ice cream, the retro drive-in operates seasonally as a Shore institution drawing generations of LBI visitors. It was updated as open on Yelp as recently as June 2026.",
+    "confidence": "medium"
+  },
+  {
+    "id": "r3c10",
+    "name": "Barth's Market",
+    "town": "New Providence",
+    "address": "41 South St, New Providence, NJ 07974",
+    "status": "open",
+    "website": null,
+    "blurb": "Barth's Market was founded in 1940 by Otto Barth, a German immigrant who opened a butcher shop in Irvington, NJ, bringing traditional Old World sausage recipes from Geislingen, Germany. The business relocated to New Providence in 1960 and has been passed through multiple generations, now operating as a fourth-generation family butcher and full-service market. It is known for house-made German-style wurst, fresh-cut meats, and an extensive selection of sausages.",
+    "confidence": "high"
+  },
+  {
+    "id": "r3c11",
+    "name": "Fossil Farms",
+    "town": "Boonton",
+    "address": "81 Fulton St, Boonton, NJ 07005",
+    "status": "open",
+    "website": "https://www.fossilfarms.com/",
+    "blurb": "Fossil Farms was founded in 1997 by two brothers who started with a 13-acre ostrich farm, then expanded into a wide range of sustainably raised and wild-game meats including bison, elk, and wild boar. The Boonton Market & Kitchen opened later as a retail and prepared-food outlet for the company's products. Hot dogs made from exotic meats such as bison and wild boar are among their distinctive offerings, sold both in-store and through their online shop.",
+    "confidence": "high"
+  },
+  {
+    "id": "r3c12",
+    "name": "Eppes Essen",
+    "town": "Livingston",
+    "address": "105 East Mount Pleasant Ave, Livingston, NJ 07039",
+    "status": "open",
+    "website": "https://eppesessen.com/",
+    "blurb": "Eppes Essen was established in 1956 in Newark as a New York-style Jewish delicatessen, later moving to Orange in 1960 before settling permanently at its current Livingston location. Though not certified kosher, it maintains the traditions of the great New York Jewish delis, including complimentary pickles and coleslaw, oversized sandwiches, and classic hot dogs. The restaurant has been a community anchor in Essex County for decades.",
+    "confidence": "high"
+  },
+  {
+    "id": "r3c13",
+    "name": "Stewart's",
+    "town": null,
+    "address": null,
+    "status": "open",
+    "website": "https://www.stewartshotdogs.com/",
+    "blurb": "Stewart's Original Hot Dogs traces its origins to 1932 in Huntington, West Virginia, where John Louis and Gertrude Mandt opened a drive-in serving root beer and hot dogs with Gertrude's house-made chili sauce. The brand expanded into a regional chain with a strong New Jersey presence, operating roughly 30 locations nationwide by the early 2020s, with the majority in New Jersey and New York. NJ outposts — including locations in Matawan and East Brunswick — function as old-school drive-in-style root beer and hot dog stands.",
+    "confidence": "high"
+  },
+  {
+    "id": "r3c14",
+    "name": "Andy's Roadside Dive",
+    "town": "Mount Arlington",
+    "address": "324 Howard Blvd, Mount Arlington, NJ 07856",
+    "status": "closed",
+    "website": null,
+    "blurb": "Andy's Roadside Dive launched in 2011 as a food truck at Lee's Marina on Lake Hopatcong in Mount Arlington, NJ, building a following for its creative, upscale hot dogs using Sabrett's franks with inventive topping combinations. The operation eventually moved into a brick-and-mortar storefront and was ranked among the top hot dog spots in New Jersey by NJ.com. Yelp lists the location as permanently closed as of early 2026.",
+    "confidence": "high"
+  },
+  {
+    "id": "r4c01",
+    "name": "J&M Grill",
+    "town": "Boonton",
+    "address": "266 Myrtle Ave, Boonton, NJ 07005",
+    "status": "open",
+    "website": "https://jmgrillboonton.com/",
+    "blurb": "J&M Grill & Catering opened in 2007 on Myrtle Avenue in Boonton, Morris County, NJ, serving classic diner-style comfort food including hot dogs, cheesesteaks, burgers, and breakfast sandwiches at affordable prices. The casual neighborhood counter has developed a loyal local following since its opening. Boonton sits near the Passaic County border, in the geographic orbit of the north Jersey deep-fried hot dog tradition.",
+    "confidence": "medium"
+  },
+  {
+    "id": "r4c02",
+    "name": "Munce's",
+    "town": "Rahway",
+    "address": "162 St Georges Ave, Rahway, NJ 07065",
+    "status": "open",
+    "website": null,
+    "blurb": "Munce's has operated a hot dog truck from the same spot on St. Georges Ave in front of Rahway River Park since 1963, making it one of New Jersey's longest-running continuous hot dog operations. The pushcart-style dirty-water dogs are known for their distinctive snap and are served with a variety of free toppings including homemade chili. The truck has been celebrated on multiple New Jersey best hot dog lists and remains a Rahway landmark after more than 60 years.",
+    "confidence": "high"
+  },
+  {
+    "id": "r4c03",
+    "name": "Boulevard Drinks",
+    "town": "Jersey City",
+    "address": "48 Journal Square Plaza, Jersey City, NJ 07306",
+    "status": "open",
+    "website": "https://boulevarddrinkshotdogs.com/",
+    "blurb": "Boulevard Drinks has occupied its small counter-service spot near Journal Square in Jersey City since 1937, serving hot dogs, sausages, and sugary drinks in a nostalgic atmosphere unchanged for decades. The shop is best known for its homemade chili-onion sauce — a tangy, sweet condiment that distinguishes it from typical chili dogs. The establishment keeps prices minimal and has maintained a fiercely loyal neighborhood following for nearly 90 years.",
+    "confidence": "high"
+  },
+  {
+    "id": "r4c04",
+    "name": "Manny's Texas Weiners",
+    "town": "Vauxhall",
+    "address": "2580 Springfield Ave, Vauxhall, NJ 07088",
+    "status": "open",
+    "website": "https://www.mannystexasweiners.com/",
+    "blurb": "Manny's Texas Weiners has operated in the Union County area since 1979, serving the Plainfield tradition of the Texas weiner — a deep-fried hot dog topped with mustard, raw onions, and a Greek-influenced meat chili sauce with a hint of cinnamon. Located in Vauxhall (a section of Union Township, adjacent to Plainfield), the family-owned restaurant also offers a well-regarded breakfast and brunch menu. Texas weiners in this region trace their character to Greek immigrant restaurateurs who shaped the style.",
+    "confidence": "high"
+  },
+  {
+    "id": "r4c05",
+    "name": "New Corral",
+    "town": "Clifton",
+    "address": "499 Hazel St, Clifton, NJ 07011",
+    "status": "open",
+    "website": "https://thenewcorral.shop/",
+    "blurb": "The New Corral has been a fixture in Clifton since 1952, serving the Passaic County-style Texas hot weiner — a deep-fried frank topped with mustard, raw onions, and a spiced meat chili sauce — alongside diner staples like disco fries and all-day breakfast. Clifton and nearby Paterson form the heartland of New Jersey's Texas weiner tradition, introduced by Greek immigrant restaurateurs in the early 20th century. The restaurant was confirmed open as recently as May 2026.",
+    "confidence": "high"
+  },
+  {
+    "id": "r4c06",
+    "name": "JJ's",
+    "town": "Newark",
+    "address": "230 Bloomfield Ave, Newark, NJ 07104",
+    "status": "open",
+    "website": "https://jjshotdogsnj.com/",
+    "blurb": "JJ's Hot Dogs has served Newark since 1971, when the founder launched a hot dog truck that became a staple of the city's street-food scene. Known for the Newark tradition of stewed hot onions — deeply savory caramelized onions piled atop a dog — JJ's also serves homemade chili and its signature 'belly buster.' The operation has since expanded to include a second brick-and-mortar location in Fairfield, NJ, while the original Newark truck remains active.",
+    "confidence": "high"
+  },
+  {
+    "id": "r4c07",
+    "name": "Hot Dog Johnny's",
+    "town": "Buttzville",
+    "address": "333 Route 46, Buttzville, NJ 07823",
+    "status": "open",
+    "website": "https://hotdogjohnny.com/",
+    "blurb": "Hot Dog Johnny's opened on Palm Sunday 1944 at the intersection of Routes 46 and 31 in Buttzville, Warren County, NJ, founded by John Kovalsky as a roadside stand with views of the Pequest River. The stand is a celebrated example of the Easton-style hot dog tradition of the Warren County corridor near the Pennsylvania border, and is equally famous for serving buttermilk alongside root beer and birch beer. Now operated by founder's daughter Patricia Fotopoulos, it has been featured on the Travel Channel as one of America's most iconic roadside stands.",
+    "confidence": "high"
+  },
+  {
+    "id": "r4c08",
+    "name": "Dickie Dee's",
+    "town": "Newark",
+    "address": "380 Bloomfield Ave, Newark, NJ 07107",
+    "status": "open",
+    "website": "https://www.dickiedees.net/",
+    "blurb": "Dickie Dee's was founded in 1958 in Newark's North Ward by Dominick 'Dick' D'Innocenzio and Enrico Bruno, and is now in its third generation of family ownership. The restaurant has been voted the number one hot dog in New Jersey and is known for the classic Newark Italian hot dog — a deep-fried frank served in pizza bread with fried potatoes, peppers, and onions. It operates cash-only and remains a beloved institution on Bloomfield Avenue.",
+    "confidence": "high"
+  }
+]

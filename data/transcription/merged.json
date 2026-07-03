@@ -1,0 +1,1635 @@
+[
+ {
+  "id": "r1c01",
+  "symbol": "Rh",
+  "name": "Rutt's Hutt",
+  "year": 1928,
+  "franks_ratio": "8:1",
+  "ingredients": [
+   "b",
+   "p"
+  ],
+  "topping_codes": [
+   "r"
+  ],
+  "brand": "Thumann's",
+  "uncertain": null,
+  "row": 1,
+  "col": 1,
+  "category": "ripper",
+  "border": "red"
+ },
+ {
+  "id": "r1c14",
+  "symbol": "Sm",
+  "name": "Local Smoke",
+  "year": 2007,
+  "franks_ratio": "6:1",
+  "ingredients": [
+   "b"
+  ],
+  "topping_codes": [
+   "bbq",
+   "bc"
+  ],
+  "brand": "Berks",
+  "uncertain": null,
+  "row": 1,
+  "col": 14,
+  "category": "haute",
+  "border": "green"
+ },
+ {
+  "id": "r2c01",
+  "symbol": "Hi",
+  "name": "Hiram's",
+  "year": 1928,
+  "franks_ratio": "6:1",
+  "ingredients": [
+   "b",
+   "p"
+  ],
+  "topping_codes": [
+   "m"
+  ],
+  "brand": "Thumann's",
+  "uncertain": null,
+  "row": 2,
+  "col": 1,
+  "category": "ripper",
+  "border": "red"
+ },
+ {
+  "id": "r2c02",
+  "symbol": "Hf",
+  "name": "Hank's Franks",
+  "year": 1959,
+  "franks_ratio": "12:1",
+  "ingredients": [
+   "b"
+  ],
+  "topping_codes": [
+   "os"
+  ],
+  "brand": "Sabrett",
+  "uncertain": null,
+  "row": 2,
+  "col": 2,
+  "category": "dirty-water",
+  "border": "red"
+ },
+ {
+  "id": "r2c09",
+  "symbol": "Mx",
+  "name": "Max's",
+  "year": 1928,
+  "franks_ratio": "4:1",
+  "ingredients": [
+   "b",
+   "p"
+  ],
+  "topping_codes": [
+   "r"
+  ],
+  "brand": "Wenning",
+  "uncertain": null,
+  "row": 2,
+  "col": 9,
+  "category": "jumbo",
+  "border": "other(191, 174, 90)"
+ },
+ {
+  "id": "r2c10",
+  "symbol": "Ka",
+  "name": "Karl Ehmer",
+  "year": 1932,
+  "franks_ratio": "4:1",
+  "ingredients": [
+   "b",
+   "p"
+  ],
+  "topping_codes": [
+   "m"
+  ],
+  "brand": "Karl Ehmer",
+  "uncertain": null,
+  "row": 2,
+  "col": 10,
+  "category": "wurst",
+  "border": "other(191, 174, 90)"
+ },
+ {
+  "id": "r2c11",
+  "symbol": "Ha",
+  "name": "Hacklebarney Farm",
+  "year": 1970,
+  "franks_ratio": "10:1",
+  "ingredients": [
+   "b"
+  ],
+  "topping_codes": [
+   "cb"
+  ],
+  "brand": "Nathan's",
+  "uncertain": null,
+  "row": 2,
+  "col": 11,
+  "category": "farm",
+  "border": "other(191, 174, 90)"
+ },
+ {
+  "id": "r2c12",
+  "symbol": "Gd",
+  "name": "Goodman's Deli",
+  "year": 1943,
+  "franks_ratio": "4:1",
+  "ingredients": [
+   "b"
+  ],
+  "topping_codes": [
+   "m"
+  ],
+  "brand": "Best's",
+  "uncertain": null,
+  "row": 2,
+  "col": 12,
+  "category": "deli",
+  "border": "blue"
+ },
+ {
+  "id": "r2c13",
+  "symbol": "Na",
+  "name": "Nathan's Famous",
+  "year": 1916,
+  "franks_ratio": "6:1",
+  "ingredients": [
+   "b"
+  ],
+  "topping_codes": [
+   "m"
+  ],
+  "brand": "Nathan's",
+  "uncertain": null,
+  "row": 2,
+  "col": 13,
+  "category": "distributed",
+  "border": "blue"
+ },
+ {
+  "id": "r2c14",
+  "symbol": "Ct",
+  "name": "Captain Paul's",
+  "year": 2009,
+  "franks_ratio": "8:1",
+  "ingredients": [
+   "b",
+   "p"
+  ],
+  "topping_codes": [
+   "hs",
+   "mac"
+  ],
+  "brand": "Hatfield",
+  "uncertain": null,
+  "row": 2,
+  "col": 14,
+  "category": "haute",
+  "border": "green"
+ },
+ {
+  "id": "r3c01",
+  "symbol": "Jn",
+  "name": "Jolly Nick's",
+  "year": 1960,
+  "franks_ratio": "6:1",
+  "ingredients": [
+   "b",
+   "p"
+  ],
+  "topping_codes": [
+   "m",
+   "hs"
+  ],
+  "brand": "Thumann's",
+  "uncertain": null,
+  "row": 3,
+  "col": 1,
+  "category": "ripper",
+  "border": "red"
+ },
+ {
+  "id": "r3c02",
+  "symbol": "Dh",
+  "name": "Dee's Hut",
+  "year": 1960,
+  "franks_ratio": "10:1",
+  "ingredients": [
+   "b"
+  ],
+  "topping_codes": [
+   "sk"
+  ],
+  "brand": "Sabrett",
+  "uncertain": null,
+  "row": 3,
+  "col": 2,
+  "category": "dirty-water",
+  "border": "red"
+ },
+ {
+  "id": "r3c03",
+  "symbol": "Gh",
+  "name": "Galloping Hill",
+  "year": 1925,
+  "franks_ratio": "6:1",
+  "ingredients": [
+   "b",
+   "p"
+  ],
+  "topping_codes": [
+   "c"
+  ],
+  "brand": "Grote & Weigel",
+  "uncertain": null,
+  "row": 3,
+  "col": 3,
+  "category": "chili-dog",
+  "border": "blue"
+ },
+ {
+  "id": "r3c04",
+  "symbol": "Jg",
+  "name": "J&G Texas Weiner",
+  "year": 1977,
+  "franks_ratio": "6:1",
+  "ingredients": [
+   "b",
+   "p"
+  ],
+  "topping_codes": [
+   "c",
+   "m",
+   "o"
+  ],
+  "brand": "Grote & Weigel",
+  "uncertain": null,
+  "row": 3,
+  "col": 4,
+  "category": "plainfield-texas-weiner",
+  "border": "blue"
+ },
+ {
+  "id": "r3c05",
+  "symbol": "Jh",
+  "name": "Johnny and Hanges",
+  "year": 1929,
+  "franks_ratio": "8:1",
+  "ingredients": [
+   "b",
+   "p"
+  ],
+  "topping_codes": [
+   "c",
+   "m",
+   "o"
+  ],
+  "brand": "Thumann's",
+  "uncertain": null,
+  "row": 3,
+  "col": 5,
+  "category": "passaic-texas-weiner",
+  "border": "blue"
+ },
+ {
+  "id": "r3c06",
+  "symbol": "To",
+  "name": "Tony's Specialized",
+  "year": 1968,
+  "franks_ratio": "10:1",
+  "ingredients": [
+   "b"
+  ],
+  "topping_codes": [
+   "ho"
+  ],
+  "brand": "Sabrett",
+  "uncertain": "Topping code reads 'ho' in italic, which is not in the known valid code vocabulary. Possibly 'go' (grilled onions) with the 'g' misread as 'h', or a non-standard abbreviation.",
+  "row": 3,
+  "col": 6,
+  "category": "hot-onions",
+  "border": "blue"
+ },
+ {
+  "id": "r3c07",
+  "symbol": "Js",
+  "name": "Joe's Steak Shop",
+  "year": 1938,
+  "franks_ratio": "8:1",
+  "ingredients": [
+   "b",
+   "p"
+  ],
+  "topping_codes": [
+   "m",
+   "o",
+   "p"
+  ],
+  "brand": "Berks",
+  "uncertain": null,
+  "row": 3,
+  "col": 7,
+  "category": "easton",
+  "border": "blue"
+ },
+ {
+  "id": "r3c08",
+  "symbol": "Jb",
+  "name": "Jimmy Buff's",
+  "year": 1932,
+  "franks_ratio": "8:1",
+  "ingredients": [
+   "b"
+  ],
+  "topping_codes": [
+   "k",
+   "m",
+   "o",
+   "pe",
+   "po"
+  ],
+  "brand": "Best's",
+  "uncertain": null,
+  "row": 3,
+  "col": 8,
+  "category": "italian",
+  "border": "blue"
+ },
+ {
+  "id": "r3c09",
+  "symbol": "Wo",
+  "name": "Woodie's",
+  "year": 1954,
+  "franks_ratio": "5:1",
+  "ingredients": [
+   "b",
+   "p"
+  ],
+  "topping_codes": [
+   "49",
+   "s"
+  ],
+  "brand": "Thumann's",
+  "uncertain": null,
+  "row": 3,
+  "col": 9,
+  "category": "jumbo",
+  "border": "other(191, 174, 90)"
+ },
+ {
+  "id": "r3c10",
+  "symbol": "Br",
+  "name": "Barth's Market",
+  "year": 1940,
+  "franks_ratio": "5:1",
+  "ingredients": [
+   "b",
+   "p",
+   "v"
+  ],
+  "topping_codes": [
+   "m"
+  ],
+  "brand": "Barth's Market",
+  "uncertain": null,
+  "row": 3,
+  "col": 10,
+  "category": "wurst",
+  "border": "other(191, 174, 90)"
+ },
+ {
+  "id": "r3c11",
+  "symbol": "Ff",
+  "name": "Fossil Farms",
+  "year": 1997,
+  "franks_ratio": "8:1",
+  "ingredients": [
+   "bi"
+  ],
+  "topping_codes": [
+   "eg",
+   "pe",
+   "spk"
+  ],
+  "brand": "Fossil Farms",
+  "uncertain": null,
+  "row": 3,
+  "col": 11,
+  "category": "farm",
+  "border": "other(191, 174, 90)"
+ },
+ {
+  "id": "r3c12",
+  "symbol": "Ee",
+  "name": "Eppes Essen",
+  "year": 1956,
+  "franks_ratio": "7:1",
+  "ingredients": [
+   "b"
+  ],
+  "topping_codes": [
+   "sk"
+  ],
+  "brand": "Nathan's",
+  "uncertain": null,
+  "row": 3,
+  "col": 12,
+  "category": "deli",
+  "border": "gray"
+ },
+ {
+  "id": "r3c13",
+  "symbol": "St",
+  "name": "Stewart's",
+  "year": 1932,
+  "franks_ratio": "8:1",
+  "ingredients": [
+   "b",
+   "p"
+  ],
+  "topping_codes": [
+   "m"
+  ],
+  "brand": "Thumann's",
+  "uncertain": null,
+  "row": 3,
+  "col": 13,
+  "category": "distributed",
+  "border": "blue"
+ },
+ {
+  "id": "r3c14",
+  "symbol": "An",
+  "name": "Andy's Roadside Dive",
+  "year": 2011,
+  "franks_ratio": "10:1",
+  "ingredients": [
+   "b"
+  ],
+  "topping_codes": [
+   "bbq",
+   "bc",
+   "pp",
+   "z"
+  ],
+  "brand": "Sabrett",
+  "uncertain": null,
+  "row": 3,
+  "col": 14,
+  "category": "haute",
+  "border": "green"
+ },
+ {
+  "id": "r4c01",
+  "symbol": "Jm",
+  "name": "J&M Grill",
+  "year": 2007,
+  "franks_ratio": "8:1",
+  "ingredients": [
+   "b",
+   "p"
+  ],
+  "topping_codes": [
+   "go",
+   "m"
+  ],
+  "brand": "Thumann's",
+  "uncertain": null,
+  "row": 4,
+  "col": 1,
+  "category": "ripper",
+  "border": "red"
+ },
+ {
+  "id": "r4c02",
+  "symbol": "Mu",
+  "name": "Munce's",
+  "year": 1963,
+  "franks_ratio": "10:1",
+  "ingredients": [
+   "b"
+  ],
+  "topping_codes": [
+   "r"
+  ],
+  "brand": "Sabrett",
+  "uncertain": null,
+  "row": 4,
+  "col": 2,
+  "category": "dirty-water",
+  "border": "red"
+ },
+ {
+  "id": "r4c03",
+  "symbol": "Bd",
+  "name": "Boulevard Drinks",
+  "year": 1937,
+  "franks_ratio": "12:1",
+  "ingredients": [
+   "b"
+  ],
+  "topping_codes": [
+   "c"
+  ],
+  "brand": "Sabrett",
+  "uncertain": null,
+  "row": 4,
+  "col": 3,
+  "category": "chili-dog",
+  "border": "blue"
+ },
+ {
+  "id": "r4c04",
+  "symbol": "Ma",
+  "name": "Manny's Texas Weiners",
+  "year": 1979,
+  "franks_ratio": "6:1",
+  "ingredients": [
+   "b",
+   "p"
+  ],
+  "topping_codes": [
+   "c",
+   "m",
+   "o"
+  ],
+  "brand": "Grote & Weigel",
+  "uncertain": null,
+  "row": 4,
+  "col": 4,
+  "category": "plainfield-texas-weiner",
+  "border": "blue"
+ },
+ {
+  "id": "r4c05",
+  "symbol": "Nc",
+  "name": "New Corral",
+  "year": 1952,
+  "franks_ratio": "8:1",
+  "ingredients": [
+   "b",
+   "p"
+  ],
+  "topping_codes": [
+   "c",
+   "m",
+   "o"
+  ],
+  "brand": "Thumann's",
+  "uncertain": null,
+  "row": 4,
+  "col": 5,
+  "category": "passaic-texas-weiner",
+  "border": "blue"
+ },
+ {
+  "id": "r4c06",
+  "symbol": "Jj",
+  "name": "JJ's",
+  "year": 1971,
+  "franks_ratio": "12:1",
+  "ingredients": [
+   "b"
+  ],
+  "topping_codes": [
+   "ho"
+  ],
+  "brand": "Sabrett",
+  "uncertain": "Topping code reads 'ho' in italic but 'ho' is not in the valid vocabulary. Could be a misread of 'hm' \u2014 the second letter resembles 'o' in the font used.",
+  "row": 4,
+  "col": 6,
+  "category": "hot-onions",
+  "border": "blue"
+ },
+ {
+  "id": "r4c07",
+  "symbol": "Hs",
+  "name": "Hot Dog Johnny's",
+  "year": 1944,
+  "franks_ratio": "10:1",
+  "ingredients": [
+   "b",
+   "p"
+  ],
+  "topping_codes": [
+   "m",
+   "o",
+   "p"
+  ],
+  "brand": "Schmalz's",
+  "uncertain": null,
+  "row": 4,
+  "col": 7,
+  "category": "easton",
+  "border": "blue"
+ },
+ {
+  "id": "r4c08",
+  "symbol": "De",
+  "name": "Dickie Dee's",
+  "year": 1958,
+  "franks_ratio": "8:1",
+  "ingredients": [
+   "b"
+  ],
+  "topping_codes": [
+   "k",
+   "o",
+   "pe",
+   "po"
+  ],
+  "brand": "Best's",
+  "uncertain": null,
+  "row": 4,
+  "col": 8,
+  "category": "italian",
+  "border": "blue"
+ },
+ {
+  "id": "r4c09",
+  "symbol": "Wi",
+  "name": "Windmill",
+  "year": 1963,
+  "franks_ratio": "4:1",
+  "ingredients": [
+   "b",
+   "p"
+  ],
+  "topping_codes": [
+   "k",
+   "m"
+  ],
+  "brand": "Sabrett",
+  "uncertain": null,
+  "row": 4,
+  "col": 9,
+  "category": "jumbo",
+  "border": "other(170, 157, 90)"
+ },
+ {
+  "id": "r4c10",
+  "symbol": "Fo",
+  "name": "Forked River German Butcher",
+  "year": 1969,
+  "franks_ratio": "3:1",
+  "ingredients": [
+   "v",
+   "p"
+  ],
+  "topping_codes": [
+   "sm"
+  ],
+  "brand": "Forked River German Butcher",
+  "uncertain": null,
+  "row": 4,
+  "col": 10,
+  "category": "wurst",
+  "border": "other(170, 157, 90)"
+ },
+ {
+  "id": "r4c11",
+  "symbol": "Bp",
+  "name": "Beach Plum Farm",
+  "year": 2007,
+  "franks_ratio": "8:1",
+  "ingredients": [
+   "p"
+  ],
+  "topping_codes": [
+   "r"
+  ],
+  "brand": "Beach Plum Farm",
+  "uncertain": null,
+  "row": 4,
+  "col": 11,
+  "category": "farm",
+  "border": "other(159, 143, 77)"
+ },
+ {
+  "id": "r4c12",
+  "symbol": "Hb",
+  "name": "Hobby's",
+  "year": 1962,
+  "franks_ratio": "4:1",
+  "ingredients": [
+   "b"
+  ],
+  "topping_codes": [
+   "m"
+  ],
+  "brand": "Marathon",
+  "uncertain": null,
+  "row": 4,
+  "col": 12,
+  "category": "deli",
+  "border": "blue"
+ },
+ {
+  "id": "r4c13",
+  "symbol": "Co",
+  "name": "Costco",
+  "year": 1984,
+  "franks_ratio": "4:1",
+  "ingredients": [
+   "b"
+  ],
+  "topping_codes": [
+   "pl"
+  ],
+  "brand": "Kirkland",
+  "uncertain": null,
+  "row": 4,
+  "col": 13,
+  "category": "distributed",
+  "border": "blue"
+ },
+ {
+  "id": "r4c14",
+  "symbol": "Dd",
+  "name": "Destination Dogs",
+  "year": 2012,
+  "franks_ratio": "6:1",
+  "ingredients": [
+   "d"
+  ],
+  "topping_codes": [
+   "dc",
+   "dm",
+   "o",
+   "p",
+   "sn"
+  ],
+  "brand": "Destination Dogs",
+  "uncertain": null,
+  "row": 4,
+  "col": 14,
+  "category": "haute",
+  "border": "green"
+ },
+ {
+  "id": "r5c01",
+  "symbol": "Ro",
+  "name": "Rocco's",
+  "year": 2015,
+  "franks_ratio": "8:1",
+  "ingredients": [
+   "b",
+   "p"
+  ],
+  "topping_codes": [
+   "pl"
+  ],
+  "brand": "Thumann's",
+  "uncertain": null,
+  "row": 5,
+  "col": 1,
+  "category": "ripper",
+  "border": "red"
+ },
+ {
+  "id": "r5c02",
+  "symbol": "So",
+  "name": "Sophie's",
+  "year": 1984,
+  "franks_ratio": "10:1",
+  "ingredients": [
+   "b"
+  ],
+  "topping_codes": [
+   "r",
+   "sk"
+  ],
+  "brand": "Sabrett",
+  "uncertain": null,
+  "row": 5,
+  "col": 2,
+  "category": "dirty-water",
+  "border": "red"
+ },
+ {
+  "id": "r5c03",
+  "symbol": "Dg",
+  "name": "Dover Grill",
+  "year": 2001,
+  "franks_ratio": "12:1",
+  "ingredients": [
+   "b"
+  ],
+  "topping_codes": [
+   "c"
+  ],
+  "brand": "Sabrett",
+  "uncertain": null,
+  "row": 5,
+  "col": 3,
+  "category": "chili-dog",
+  "border": "blue"
+ },
+ {
+  "id": "r5c04",
+  "symbol": "Rt",
+  "name": "Red Tower II",
+  "year": 1984,
+  "franks_ratio": "6:1",
+  "ingredients": [
+   "b",
+   "p"
+  ],
+  "topping_codes": [
+   "c",
+   "m",
+   "o"
+  ],
+  "brand": "Grote & Weigel",
+  "uncertain": null,
+  "row": 5,
+  "col": 4,
+  "category": "plainfield-texas-weiner",
+  "border": "blue"
+ },
+ {
+  "id": "r5c05",
+  "symbol": "Hg",
+  "name": "Hot Grill",
+  "year": 1961,
+  "franks_ratio": "8:1",
+  "ingredients": [
+   "b",
+   "p"
+  ],
+  "topping_codes": [
+   "c",
+   "m",
+   "o"
+  ],
+  "brand": "Grote & Weigel",
+  "uncertain": null,
+  "row": 5,
+  "col": 5,
+  "category": "passaic-texas-weiner",
+  "border": "blue"
+ },
+ {
+  "id": "r5c06",
+  "symbol": "Cr",
+  "name": "Chris's Red Hots",
+  "year": 1995,
+  "franks_ratio": "11:1",
+  "ingredients": [
+   "b"
+  ],
+  "topping_codes": [
+   "ho",
+   "m"
+  ],
+  "brand": "Sabrett",
+  "uncertain": "Topping code 'ho' is not in the provided valid codes vocabulary. Printed clearly in italic. Appears on 3 tiles total (r5c06, r6c01, r6c06); photo shows caramelized/hot onions, suggesting 'ho' = hot onions.",
+  "row": 5,
+  "col": 6,
+  "category": "hot-onions",
+  "border": "blue"
+ },
+ {
+  "id": "r5c07",
+  "symbol": "Hr",
+  "name": "Hot Rod's",
+  "year": 1991,
+  "franks_ratio": "8:1",
+  "ingredients": [
+   "b",
+   "p"
+  ],
+  "topping_codes": [
+   "m",
+   "o",
+   "p"
+  ],
+  "brand": "Berks",
+  "uncertain": null,
+  "row": 5,
+  "col": 7,
+  "category": "easton",
+  "border": "blue"
+ },
+ {
+  "id": "r5c08",
+  "symbol": "Tm",
+  "name": "Tommy's",
+  "year": 1969,
+  "franks_ratio": "8:1",
+  "ingredients": [
+   "b"
+  ],
+  "topping_codes": [
+   "k",
+   "m",
+   "o",
+   "pe",
+   "po"
+  ],
+  "brand": "Best's",
+  "uncertain": null,
+  "row": 5,
+  "col": 8,
+  "category": "italian",
+  "border": "blue"
+ },
+ {
+  "id": "r5c09",
+  "symbol": "Ed",
+  "name": "Edie's Luncheonette",
+  "year": 1973,
+  "franks_ratio": "4:1",
+  "ingredients": [
+   "b",
+   "p"
+  ],
+  "topping_codes": [
+   "sk"
+  ],
+  "brand": "Wenning",
+  "uncertain": null,
+  "row": 5,
+  "col": 9,
+  "category": "jumbo",
+  "border": "other(199, 183, 90)"
+ },
+ {
+  "id": "r5c10",
+  "symbol": "Al",
+  "name": "Alpine Meats and Deli",
+  "year": 1980,
+  "franks_ratio": "5:1",
+  "ingredients": [
+   "b",
+   "p"
+  ],
+  "topping_codes": [
+   "m"
+  ],
+  "brand": "Alpine Meats and Deli",
+  "uncertain": null,
+  "row": 5,
+  "col": 10,
+  "category": "wurst",
+  "border": "other(199, 183, 90)"
+ },
+ {
+  "id": "r5c11",
+  "symbol": "Fd",
+  "name": "1785 Farm Dog",
+  "year": 2023,
+  "franks_ratio": "6:1",
+  "ingredients": [
+   "b"
+  ],
+  "topping_codes": [
+   "m",
+   "o"
+  ],
+  "brand": "1785 Farm Dog",
+  "uncertain": null,
+  "row": 5,
+  "col": 11,
+  "category": "farm",
+  "border": "other(199, 183, 90)"
+ },
+ {
+  "id": "r5c12",
+  "symbol": "Dk",
+  "name": "Deli King",
+  "year": 1985,
+  "franks_ratio": "7:1",
+  "ingredients": [
+   "b"
+  ],
+  "topping_codes": [
+   "m"
+  ],
+  "brand": "Hebrew National",
+  "uncertain": null,
+  "row": 5,
+  "col": 12,
+  "category": "deli",
+  "border": "blue"
+ },
+ {
+  "id": "r5c13",
+  "symbol": "Fg",
+  "name": "Five Guys",
+  "year": 1986,
+  "franks_ratio": "5.3:1",
+  "ingredients": [
+   "b"
+  ],
+  "topping_codes": [
+   "k"
+  ],
+  "brand": "Hebrew National",
+  "uncertain": null,
+  "row": 5,
+  "col": 13,
+  "category": "distributed",
+  "border": "blue"
+ },
+ {
+  "id": "r5c14",
+  "symbol": "Lo",
+  "name": "Lover Dogs",
+  "year": 2020,
+  "franks_ratio": "7:1",
+  "ingredients": [
+   "b",
+   "p"
+  ],
+  "topping_codes": [
+   "c",
+   "s"
+  ],
+  "brand": "Hofmann",
+  "uncertain": null,
+  "row": 5,
+  "col": 14,
+  "category": "haute",
+  "border": "green"
+ },
+ {
+  "id": "r6c01",
+  "symbol": "Or",
+  "name": "1950 Originals",
+  "year": 2023,
+  "franks_ratio": "5:1",
+  "ingredients": [
+   "b",
+   "p"
+  ],
+  "topping_codes": [
+   "ho"
+  ],
+  "brand": "Thumann's",
+  "uncertain": "Topping code 'ho' is not in the provided valid codes vocabulary. Printed clearly in italic. Appears on 3 tiles total (r5c06, r6c01, r6c06); photo shows caramelized/hot onions, suggesting 'ho' = hot onions.",
+  "row": 6,
+  "col": 1,
+  "category": "ripper",
+  "border": "red"
+ },
+ {
+  "id": "r6c02",
+  "symbol": "Pk",
+  "name": "Popik's Place",
+  "year": 1998,
+  "franks_ratio": "10:1",
+  "ingredients": [
+   "b"
+  ],
+  "topping_codes": [
+   "m"
+  ],
+  "brand": "Sabrett",
+  "uncertain": null,
+  "row": 6,
+  "col": 2,
+  "category": "dirty-water",
+  "border": "red"
+ },
+ {
+  "id": "r6c03",
+  "symbol": "Cc",
+  "name": "Curbside Cafe",
+  "year": 2008,
+  "franks_ratio": "10:1",
+  "ingredients": [
+   "b"
+  ],
+  "topping_codes": [
+   "c",
+   "z"
+  ],
+  "brand": "Sabrett",
+  "uncertain": null,
+  "row": 6,
+  "col": 3,
+  "category": "chili-dog",
+  "border": "blue"
+ },
+ {
+  "id": "r6c04",
+  "symbol": "Mi",
+  "name": "Middlesex Texas Weiner",
+  "year": 1985,
+  "franks_ratio": "6:1",
+  "ingredients": [
+   "b",
+   "p"
+  ],
+  "topping_codes": [
+   "c",
+   "m",
+   "o"
+  ],
+  "brand": "Grote & Weigel",
+  "uncertain": null,
+  "row": 6,
+  "col": 4,
+  "category": "plainfield-texas-weiner",
+  "border": "blue"
+ },
+ {
+  "id": "r6c05",
+  "symbol": "Go",
+  "name": "Goffle Grill",
+  "year": 1979,
+  "franks_ratio": "8:1",
+  "ingredients": [
+   "b",
+   "p"
+  ],
+  "topping_codes": [
+   "c",
+   "m",
+   "o"
+  ],
+  "brand": "Thumann's",
+  "uncertain": null,
+  "row": 6,
+  "col": 5,
+  "category": "passaic-texas-weiner",
+  "border": "blue"
+ },
+ {
+  "id": "r6c06",
+  "symbol": "Dw",
+  "name": "Dewey's Dogs",
+  "year": 2000,
+  "franks_ratio": "5:1",
+  "ingredients": [
+   "b"
+  ],
+  "topping_codes": [
+   "ho"
+  ],
+  "brand": "Sabrett",
+  "uncertain": "Topping code 'ho' is not in the provided valid codes vocabulary. Printed clearly in italic. Appears on 3 tiles total (r5c06, r6c01, r6c06); photo shows caramelized/hot onions, suggesting 'ho' = hot onions.",
+  "row": 6,
+  "col": 6,
+  "category": "hot-onions",
+  "border": "blue"
+ },
+ {
+  "id": "r6c07",
+  "symbol": "Ji",
+  "name": "Jimmy's Doggie Stand",
+  "year": 2009,
+  "franks_ratio": "10:1",
+  "ingredients": [
+   "b",
+   "p"
+  ],
+  "topping_codes": [
+   "m",
+   "o",
+   "p"
+  ],
+  "brand": "Berks",
+  "uncertain": null,
+  "row": 6,
+  "col": 7,
+  "category": "easton",
+  "border": "blue"
+ },
+ {
+  "id": "r6c08",
+  "symbol": "Mu",
+  "name": "Maui's Dog House",
+  "year": 1999,
+  "franks_ratio": "5:1",
+  "ingredients": [
+   "b",
+   "p",
+   "v"
+  ],
+  "topping_codes": [
+   "o",
+   "pe",
+   "po",
+   "wd"
+  ],
+  "brand": "Hofmann",
+  "uncertain": null,
+  "row": 6,
+  "col": 8,
+  "category": "italian",
+  "border": "blue"
+ },
+ {
+  "id": "r6c09",
+  "symbol": "Di",
+  "name": "Dicky's Dogs",
+  "year": 2015,
+  "franks_ratio": "4:1",
+  "ingredients": [
+   "b",
+   "p"
+  ],
+  "topping_codes": [
+   "os"
+  ],
+  "brand": "Wenning",
+  "uncertain": null,
+  "row": 6,
+  "col": 9,
+  "category": "jumbo",
+  "border": "other(205, 183, 90)"
+ },
+ {
+  "id": "r6c10",
+  "symbol": "Hd",
+  "name": "Hot Diggity Dog",
+  "year": 1989,
+  "franks_ratio": "5:1",
+  "ingredients": [
+   "b",
+   "p"
+  ],
+  "topping_codes": [
+   "bm"
+  ],
+  "brand": "Dietz & Watson",
+  "uncertain": null,
+  "row": 6,
+  "col": 10,
+  "category": "wurst",
+  "border": "other(205, 183, 90)"
+ },
+ {
+  "id": "r6c11",
+  "symbol": "Lc",
+  "name": "Layton Cattle Company",
+  "year": 2024,
+  "franks_ratio": "6:1",
+  "ingredients": [
+   "b"
+  ],
+  "topping_codes": [
+   "m"
+  ],
+  "brand": "Layton Cattle Company",
+  "uncertain": null,
+  "row": 6,
+  "col": 11,
+  "category": "farm",
+  "border": "other(205, 183, 90)"
+ },
+ {
+  "id": "r6c12",
+  "symbol": "Nk",
+  "name": "Noah's Ark",
+  "year": 1988,
+  "franks_ratio": "8:1",
+  "ingredients": [
+   "b"
+  ],
+  "topping_codes": [
+   "m"
+  ],
+  "brand": "Abeles & Heymann",
+  "uncertain": null,
+  "row": 6,
+  "col": 12,
+  "category": "deli",
+  "border": "blue"
+ },
+ {
+  "id": "r6c13",
+  "symbol": "Pt",
+  "name": "Somerset Patriots",
+  "year": 1999,
+  "franks_ratio": "4:1",
+  "ingredients": [
+   "b"
+  ],
+  "topping_codes": [
+   "k",
+   "m",
+   "r"
+  ],
+  "brand": "Sabrett",
+  "uncertain": null,
+  "row": 6,
+  "col": 13,
+  "category": "distributed",
+  "border": "blue"
+ },
+ {
+  "id": "r6c14",
+  "symbol": "Cn",
+  "name": "Coniglio's",
+  "year": 2023,
+  "franks_ratio": "4:1",
+  "ingredients": [
+   "b"
+  ],
+  "topping_codes": [
+   "se"
+  ],
+  "brand": "Block & Barrel",
+  "uncertain": null,
+  "row": 6,
+  "col": 14,
+  "category": "haute",
+  "border": "green"
+ },
+ {
+  "id": "r7c01",
+  "symbol": "Mh",
+  "name": "Meat Us Here",
+  "year": 2025,
+  "franks_ratio": "6:1",
+  "ingredients": [
+   "b",
+   "p"
+  ],
+  "topping_codes": [
+   "r",
+   "sm"
+  ],
+  "brand": "Thumann's",
+  "uncertain": null,
+  "row": 7,
+  "col": 1,
+  "category": "ripper",
+  "border": "red"
+ },
+ {
+  "id": "r7c02",
+  "symbol": "Ra",
+  "name": "Randy's",
+  "year": 2004,
+  "franks_ratio": "6:1",
+  "ingredients": [
+   "b"
+  ],
+  "topping_codes": [
+   "sm"
+  ],
+  "brand": "Thumann's",
+  "uncertain": null,
+  "row": 7,
+  "col": 2,
+  "category": "dirty-water",
+  "border": "red"
+ },
+ {
+  "id": "r7c03",
+  "symbol": "Pr",
+  "name": "Johnny Prince's Bayway Diner",
+  "year": 2014,
+  "franks_ratio": "6:1",
+  "ingredients": [
+   "b"
+  ],
+  "topping_codes": [
+   "c"
+  ],
+  "brand": "Sabrett",
+  "uncertain": null,
+  "row": 7,
+  "col": 3,
+  "category": "chili-dog",
+  "border": "blue"
+ },
+ {
+  "id": "r7c04",
+  "symbol": "Pp",
+  "name": "Pop's Place",
+  "year": 2020,
+  "franks_ratio": "6:1",
+  "ingredients": [
+   "b"
+  ],
+  "topping_codes": [
+   "c",
+   "m",
+   "o"
+  ],
+  "brand": "Sabrett",
+  "uncertain": null,
+  "row": 7,
+  "col": 4,
+  "category": "plainfield-texas-weiner",
+  "border": "blue"
+ },
+ {
+  "id": "r7c05",
+  "symbol": "Jo",
+  "name": "Jersey Johnny's",
+  "year": 2008,
+  "franks_ratio": "8:1",
+  "ingredients": [
+   "b",
+   "p"
+  ],
+  "topping_codes": [
+   "c",
+   "m",
+   "o"
+  ],
+  "brand": "Thumann's",
+  "uncertain": null,
+  "row": 7,
+  "col": 5,
+  "category": "passaic-texas-weiner",
+  "border": "blue"
+ },
+ {
+  "id": "r7c06",
+  "symbol": "Bi",
+  "name": "Big Ds",
+  "year": 2012,
+  "franks_ratio": "10:1",
+  "ingredients": [
+   "b"
+  ],
+  "topping_codes": [
+   "ho"
+  ],
+  "brand": "Sabrett",
+  "uncertain": "Topping code reads 'ho' which is not in the standard vocabulary; could be 'hu' but the second letter is visually a closed 'o' not an open 'u'",
+  "row": 7,
+  "col": 6,
+  "category": "hot-onions",
+  "border": "blue"
+ },
+ {
+  "id": "r7c07",
+  "symbol": "Ch",
+  "name": "Charlie's Hot Dogs",
+  "year": 2025,
+  "franks_ratio": "8:1",
+  "ingredients": [
+   "b"
+  ],
+  "topping_codes": [
+   "hu",
+   "m",
+   "o",
+   "pe"
+  ],
+  "brand": "Berks",
+  "uncertain": null,
+  "row": 7,
+  "col": 7,
+  "category": "easton",
+  "border": "blue"
+ },
+ {
+  "id": "r7c08",
+  "symbol": "Je",
+  "name": "Jeppy's II",
+  "year": 2009,
+  "franks_ratio": "6:1",
+  "ingredients": [
+   "b"
+  ],
+  "topping_codes": [
+   "m",
+   "o",
+   "pe",
+   "po"
+  ],
+  "brand": "Nathan's",
+  "uncertain": null,
+  "row": 7,
+  "col": 8,
+  "category": "italian",
+  "border": "blue"
+ },
+ {
+  "id": "r7c09",
+  "symbol": "Da",
+  "name": "Double A's Eats",
+  "year": 2020,
+  "franks_ratio": "4:1",
+  "ingredients": [
+   "b",
+   "p"
+  ],
+  "topping_codes": [
+   "c",
+   "os"
+  ],
+  "brand": "Sabrett",
+  "uncertain": null,
+  "row": 7,
+  "col": 9,
+  "category": "jumbo",
+  "border": "other(170, 153, 90)"
+ },
+ {
+  "id": "r7c10",
+  "symbol": "Rc",
+  "name": "Rose City Wurst",
+  "year": 2023,
+  "franks_ratio": "5:1",
+  "ingredients": [
+   "b",
+   "p"
+  ],
+  "topping_codes": [
+   "m"
+  ],
+  "brand": "Schmalz's",
+  "uncertain": null,
+  "row": 7,
+  "col": 10,
+  "category": "wurst",
+  "border": "other(167, 161, 90)"
+ },
+ {
+  "id": "r7c11",
+  "symbol": "Hh",
+  "name": "Haddon Hall Hot Dawgs",
+  "year": 2024,
+  "franks_ratio": "10:1",
+  "ingredients": [
+   "b"
+  ],
+  "topping_codes": [
+   "hm"
+  ],
+  "brand": "Applegate Farms",
+  "uncertain": null,
+  "row": 7,
+  "col": 11,
+  "category": "farm",
+  "border": "other(167, 161, 90)"
+ },
+ {
+  "id": "r7c12",
+  "symbol": "Hl",
+  "name": "Harold's New York Deli",
+  "year": 1998,
+  "franks_ratio": "2:1",
+  "ingredients": [
+   "b"
+  ],
+  "topping_codes": [
+   "pl"
+  ],
+  "brand": "Best's",
+  "uncertain": "Topping code 'pl' is printed in parentheses as '(pl)' on the tile, possibly indicating it is optional or served on the side",
+  "row": 7,
+  "col": 12,
+  "category": "deli",
+  "border": "blue"
+ },
+ {
+  "id": "r7c13",
+  "symbol": "Sh",
+  "name": "Shake Shack",
+  "year": 2001,
+  "franks_ratio": "8:1",
+  "ingredients": [
+   "b"
+  ],
+  "topping_codes": [
+   "k"
+  ],
+  "brand": "Vienna Beef",
+  "uncertain": null,
+  "row": 7,
+  "col": 13,
+  "category": "distributed",
+  "border": "blue"
+ },
+ {
+  "id": "r7c14",
+  "symbol": "Sc",
+  "name": "Surf City Dog House",
+  "year": 2024,
+  "franks_ratio": "4:1",
+  "ingredients": [
+   "b",
+   "p"
+  ],
+  "topping_codes": [
+   "hm",
+   "pg"
+  ],
+  "brand": "Thumann's",
+  "uncertain": null,
+  "row": 7,
+  "col": 14,
+  "category": "haute",
+  "border": "green"
+ }
+]
